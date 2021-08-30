@@ -1,0 +1,4027 @@
+'32_00011':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1630
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00012':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1180
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00013':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 980 bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00014':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1740 dollars
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00015':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $1290
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00016':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - eight hundred and ten dollars
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00017':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - nine hundred and fifty dollars
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00018':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1000 bucks
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00019':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1340 dollars
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00020':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1200 dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00021':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - eight hundred dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00022':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 930 dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00023':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1210 bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00024':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $770
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00025':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1780 bucks
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00026':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 990 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00027':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 520 dollars
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00028':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand six hundred and twenty bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00029':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $650
+    recipient_account_name:
+    - Pranav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00030':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - one thousand five hundred dollars
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00031':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1550 dollars
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00032':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - four hundred and thirty bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00033':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - 590 dollars
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00034':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $780
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00035':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1780
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00036':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1130 dollars
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00037':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1710
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00038':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 800 dollars
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00039':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1200
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00040':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand seven hundred and twenty dollars
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00041':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $1500
+    recipient_account_name:
+    - Pranav
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00042':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1520
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00043':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - six hundred and sixty dollars
+    - 1740 dollars
+    recipient_account_name:
+    - Amir
+    - Raghav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00044':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 600 bucks
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00045':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $830
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00046':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1200
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00047':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - $260
+    recipient_account_name:
+    - raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00048':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - $1330
+    recipient_account_name:
+    - Raghav
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00049':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 730 dollars
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00050':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - eight hundred dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00051':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 400 bucks
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00052':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 650 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00053':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 720 bucks
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00054':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - one thousand seven hundred and thirty bucks
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00055':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 50 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00056':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1770
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00057':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1630 bucks
+    recipient_account_name:
+    - xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00058':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - $1780
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00059':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $580
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00060':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1010 dollars
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00061':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1550
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - checking
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00062':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 300 bucks
+    recipient_account_name:
+    - Srinivas
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00063':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1600
+    recipient_account_name:
+    - Pranav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00064':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1650 dollars
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00065':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $690
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00066':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 850 dollars
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00067':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1720
+    recipient_account_name:
+    - Pranav
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00068':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1490
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00069':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 850 bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00070':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $230
+    recipient_account_name:
+    - Pranav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00071':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1730 dollars
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00072':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - six hundred and ten dollars
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00073':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - $400
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00074':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $30
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - savings
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00075':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1710 dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00076':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1630 bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00077':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - 980 dollars
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00078':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1700 bucks
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00079':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1260 dollars
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - checking
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00080':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 100 bucks
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00081':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1580 bucks
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00082':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $220
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00083':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1580 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00084':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1090 bucks
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00085':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - 760 bucks
+    recipient_account_name:
+    - Sanuj
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00086':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - $950
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00087':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 450 bucks
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00088':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 860 bucks
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00089':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 960 dollars
+    - $640
+    recipient_account_name:
+    - Srinivas
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00090':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - $520
+    recipient_account_name:
+    - Abhinav
+    - Xiaoxue
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00091':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1050 bucks
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00092':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 170 dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00093':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - $640
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00094':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1770 dollars
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00095':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - 650 bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00096':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - 480 bucks
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00097':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - three hundred and ten bucks
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00098':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1320 dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00099':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $600
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00100':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $630
+    recipient_account_name:
+    - Sanuj
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00101':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $430
+    recipient_account_name:
+    - Pranav
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00102':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - $1600
+    recipient_account_name:
+    - xiaoxue
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00103':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - 320 bucks
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00104':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 570 dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00105':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    amount:
+    - 310 bucks
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00106':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1620 dollars
+    recipient_account_name:
+    - Srinivas
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00107':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 220 dollars
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00108':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1020 dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00109':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1450 bucks
+    recipient_account_name:
+    - Raghav
+    - Srinivas
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00110':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1210
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00111':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $390
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00112':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1610
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'32_00113':
+  goals:
+    intent:
+    - CheckBalance
+    - TransferMoney
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 420 bucks
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'39_00123':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 820 bucks
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'39_00124':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 820 bucks
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'39_00125':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $240
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'39_00126':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 490 dollars
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'39_00127':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 590 bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00000':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 590 bucks
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00001':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $270
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00002':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one hundred and seventy bucks
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00003':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - four hundred and forty dollars
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00004':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $440
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00005':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 440 dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00006':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - nine hundred and twenty dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00007':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1490 bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00008':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand one hundred and sixty bucks
+    recipient_account_name:
+    - Amir
+    - Raghav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00009':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1160 bucks
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00010':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1310 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00011':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 110 dollars
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00012':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one hundred and ten bucks
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00013':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1530 bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00014':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 500 bucks
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00015':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 450 dollars
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00016':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 450 bucks
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00017':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $840
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00018':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 880 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00019':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - one thousand two hundred and forty dollars
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00020':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1060 bucks
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00021':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1510 bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00022':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 120 bucks
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00023':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $400
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00024':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - three hundred bucks
+    recipient_account_name:
+    - Sanuj
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00025':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1110 dollars
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00026':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1110 dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00027':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1530 dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00028':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $1350
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00029':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - one thousand seven hundred and sixty dollars
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00030':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $1760
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00031':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - five hundred and thirty dollars
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00032':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 730 dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00033':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand four hundred bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00034':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1650 dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00035':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1590 dollars
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00036':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1500 dollars
+    recipient_account_name:
+    - Pranav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00037':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand five hundred bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00038':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - seven hundred and twenty dollars
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00039':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand sixty dollars
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00040':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - three hundred dollars
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00041':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $910
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00042':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 910 dollars
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00043':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1120
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00044':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 980 dollars
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00045':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1320 dollars
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00046':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - one thousand three hundred and twenty bucks
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00047':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1250 bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00048':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $680
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00049':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1240 bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00050':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - One thousand two hundred and forty bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00051':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1770 dollars
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00052':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - four hundred and thirty bucks
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00053':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 130 dollars
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00054':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $130
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00055':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 230 dollars
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00056':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1730 dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00057':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $1570
+    recipient_account_name:
+    - Sanuj
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00058':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1570 bucks
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00059':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $930
+    recipient_account_name:
+    - Srinivas
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00060':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - one thousand one hundred and forty dollars
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00061':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - nine hundred and fifty bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00062':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 950 dollars
+    recipient_account_name:
+    - Pranav
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00063':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - Forty Bucks
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00064':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1790 bucks
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00065':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1320 bucks
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00066':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - one thousand three hundred and twenty bucks
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00067':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 570 dollars
+    recipient_account_name:
+    - Sanuj
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00068':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $1490
+    recipient_account_name:
+    - Xiaoxue
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00069':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - five hundred and sixty dollars
+    recipient_account_name:
+    - Maria
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00070':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1710 dollars
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00071':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1280 dollars
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00072':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand seven hundred and thirty dollars
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00073':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1730
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00074':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand one hundred and twenty bucks
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00075':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 1120 dollars
+    recipient_account_name:
+    - Amir
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00076':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - one thousand three hundred and seventy dollars
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00077':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 640 dollars
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00078':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1650 dollars
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00079':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1650
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00080':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 140 dollars
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00081':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1720
+    recipient_account_name:
+    - Xiaoxue
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00082':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - seven hundred and forty bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00083':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 740 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00084':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $1530
+    recipient_account_name:
+    - Sanuj
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00085':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - five hundred dollars
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00086':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 350 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00087':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $370
+    recipient_account_name:
+    - Raghav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00088':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - three hundred and seventy bucks
+    recipient_account_name:
+    - Raghav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00089':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - $1420
+    recipient_account_name:
+    - Amir
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00090':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1650 bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00091':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - 120 bucks
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00092':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - $120
+    recipient_account_name:
+    - Pranav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00093':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1180 bucks
+    recipient_account_name:
+    - Maria
+    recipient_account_type:
+    - savings
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00094':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - 1550 dollars
+    recipient_account_name:
+    - Srinivas
+    recipient_account_type:
+    - dontcare
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00095':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 1550 bucks
+    recipient_account_name:
+    - Srinivas
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00096':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    amount:
+    - one thousand three hundred and twenty bucks
+    recipient_account_name:
+    - Sanuj
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00097':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - checking
+    - savings
+    amount:
+    - $110
+    recipient_account_name:
+    - Abhinav
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null
+
+'40_00098':
+  goals:
+    intent:
+    - TransferMoney
+    - CheckBalance
+  inform_slots:
+    account_type:
+    - savings
+    - checking
+    amount:
+    - 110 bucks
+    recipient_account_name:
+    - Abhinav
+    recipient_account_type:
+    - checking
+  request_slots:
+    CheckBalance:
+      account_type: UNK
+      balance: UNK
+    TransferMoney: null

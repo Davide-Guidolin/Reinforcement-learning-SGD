@@ -1,0 +1,8072 @@
+'1_00000':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    - Palo Alto
+    cuisine:
+    - American
+    price_range:
+    - moderate
+    time:
+    - 11:30 am
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'1_00001':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - milpitas
+    cuisine:
+    - Punjabi
+    - Take-out
+    date:
+    - the 11th
+    party_size:
+    - '1'
+    time:
+    - afternoon 1:30
+    - twelve in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00002':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    cuisine:
+    - Ethiopian
+    date:
+    - the 4th
+    - 2nd of this month
+    time:
+    - '17:15'
+    - '17:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      serves_alcohol: UNK
+
+'1_00003':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Palo Alto
+    cuisine:
+    - Freshwater fish
+    party_size:
+    - '1'
+    time:
+    - half past 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'1_00004':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    cuisine:
+    - Lobster
+    date:
+    - March 14th
+    time:
+    - evening 5:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'1_00005':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Bruno
+    cuisine:
+    - Filipino
+    date:
+    - the 12th
+    time:
+    - six pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'1_00006':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - Freshwater fish
+    date:
+    - March 10th
+    time:
+    - six in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00007':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - pizza and pasta
+    price_range:
+    - dontcare
+    time:
+    - '12:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00008':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Italian
+    date:
+    - next friday
+    party_size:
+    - '1'
+    price_range:
+    - moderate
+    time:
+    - 1:30 pm
+    - 7 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00009':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fairfield
+    cuisine:
+    - breakfast
+    party_size:
+    - '1'
+    time:
+    - evening 4:45
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00010':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fairfield
+    cuisine:
+    - Breakfast
+    date:
+    - the 9th
+    - Monday next week
+    party_size:
+    - '2'
+    - '3'
+    time:
+    - half past 5 in the evening
+    - half past 12 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'1_00011':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Cupertino
+    cuisine:
+    - Malaysian
+    date:
+    - March 13th
+    time:
+    - quarter past 5 in the evening
+    - half past 12 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'1_00012':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - Cambodian
+    party_size:
+    - '3'
+    time:
+    - '19:15'
+    - '18:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      street_address: UNK
+      time: UNK
+
+'1_00013':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fremont
+    cuisine:
+    - Asian
+    date:
+    - March 10th
+    time:
+    - half past 1 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00014':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Albany
+    cuisine:
+    - Barbecue
+    date:
+    - 13th of March
+    time:
+    - 5 oclock in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00015':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Asian Fusion
+    party_size:
+    - '6'
+    - '4'
+    time:
+    - half past 5 in the evening
+    - twelve pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'1_00016':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - American
+    time:
+    - six pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00017':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - pizza and pasta
+    party_size:
+    - '2'
+    time:
+    - half past 5 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant: null
+
+'1_00018':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Concord
+    cuisine:
+    - Asian Fusion
+    date:
+    - dontcare
+    time:
+    - 5 oclock in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00019':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Rohnert Park
+    cuisine:
+    - Mexican
+    - Ramen
+    party_size:
+    - '3'
+    price_range:
+    - moderate
+    time:
+    - morning 11:15
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00020':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    cuisine:
+    - pick-up
+    date:
+    - 13th of this month
+    party_size:
+    - '2'
+    price_range:
+    - dontcare
+    - inexpensive
+    serves_alcohol:
+    - 'True'
+    time:
+    - afternoon 12
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'1_00021':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Redwood City
+    cuisine:
+    - Spanish
+    party_size:
+    - '4'
+    price_range:
+    - moderate
+    time:
+    - evening 5:45
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'1_00022':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Millbrae
+    cuisine:
+    - Singaporean
+    time:
+    - Eleven in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant: null
+
+'1_00023':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Calistoga
+    cuisine:
+    - Cambodian
+    - Barbecue
+    party_size:
+    - '2'
+    - '1'
+    price_range:
+    - moderate
+    time:
+    - half past 12 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'1_00024':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Burlingame
+    cuisine:
+    - Fish
+    price_range:
+    - expensive
+    - moderate
+    time:
+    - quarter to 1 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'1_00025':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Rohnert Park
+    - Pleasant Hill
+    cuisine:
+    - Izakaya
+    party_size:
+    - '1'
+    - '2'
+    time:
+    - 8 in the night
+    - 11:45 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00026':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Ramon
+    cuisine:
+    - soup
+    has_live_music:
+    - 'True'
+    price_range:
+    - inexpensive
+    time:
+    - 7:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'1_00027':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Cupertino
+    - Santa Clara
+    cuisine:
+    - Dumplings
+    date:
+    - 7th of this month
+    price_range:
+    - moderate
+    time:
+    - 7:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'1_00028':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    cuisine:
+    - Seafood
+    time:
+    - quarter past 1 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'1_00029':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Dublin
+    cuisine:
+    - burger
+    party_size:
+    - '3'
+    serves_alcohol:
+    - 'True'
+    time:
+    - 5 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'1_00030':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Napa
+    cuisine:
+    - Pizza
+    party_size:
+    - '2'
+    price_range:
+    - expensive
+    time:
+    - 11:30 am
+    - Morning 11:45
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'1_00031':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    cuisine:
+    - Cambodian
+    party_size:
+    - '4'
+    time:
+    - 6:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+
+'1_00032':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Martinez
+    cuisine:
+    - Thai
+    date:
+    - next Monday
+    party_size:
+    - '1'
+    time:
+    - 7 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+      street_address: UNK
+
+'1_00033':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Ramen
+    date:
+    - 3rd of March
+    party_size:
+    - '6'
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - Twelve pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00034':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Noodles
+    party_size:
+    - '2'
+    - '4'
+    time:
+    - 6:45 in the evening
+    - '12:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'1_00035':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Campbell
+    cuisine:
+    - Barbecue
+    - Sushi
+    date:
+    - March 14th
+    price_range:
+    - moderate
+    time:
+    - 7:15 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'1_00036':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Palo Alto
+    cuisine:
+    - Brazilian
+    time:
+    - Quarter past 5 in the evening
+    - evening 6:15
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'1_00037':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Campbell
+    cuisine:
+    - pasta
+    price_range:
+    - moderate
+    time:
+    - 5:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'1_00038':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    cuisine:
+    - Spicy Indian
+    party_size:
+    - '4'
+    - '3'
+    price_range:
+    - moderate
+    time:
+    - 1 oclock in the afternoon
+    - evening 7:45
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00039':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    cuisine:
+    - Take-out
+    date:
+    - March 14th
+    price_range:
+    - moderate
+    time:
+    - 11 am
+    - '18:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'1_00040':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Dublin
+    cuisine:
+    - Noodles
+    date:
+    - 7th of March
+    - 8th of March
+    party_size:
+    - '1'
+    price_range:
+    - moderate
+    time:
+    - '13:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'1_00041':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Petaluma
+    cuisine:
+    - curry
+    party_size:
+    - '1'
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - 11 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'1_00042':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Pizza and Pasta
+    price_range:
+    - moderate
+    time:
+    - quarter past 5 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00043':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Foster City
+    cuisine:
+    - Spicy Indian
+    date:
+    - 4th of this month
+    time:
+    - afternoon 1:45
+    - 5:45 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00044':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Mountain View
+    cuisine:
+    - Sichuan
+    party_size:
+    - '4'
+    price_range:
+    - inexpensive
+    time:
+    - 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'1_00045':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    - SF
+    cuisine:
+    - Chinese
+    time:
+    - 12 oclock in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      price_range: UNK
+
+'1_00046':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - California
+    time:
+    - half past 7 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00047':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Foster City
+    cuisine:
+    - Izakaya
+    date:
+    - March 4th
+    price_range:
+    - moderate
+    time:
+    - evening 6:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'1_00048':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Pizza and Pasta
+    price_range:
+    - dontcare
+    time:
+    - 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00049':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Punjabi
+    time:
+    - '12:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+      time: UNK
+
+'1_00050':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Sunnyvale
+    cuisine:
+    - pizza
+    date:
+    - next tuesday
+    party_size:
+    - '1'
+    time:
+    - evening 7:15
+    - afternoon 12:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00051':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    cuisine:
+    - Diner
+    party_size:
+    - '1'
+    time:
+    - evening 4:45
+    - 6 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'1_00052':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - Southern
+    has_live_music:
+    - 'True'
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - quarter to 12 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'1_00053':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Pizza
+    party_size:
+    - '4'
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - half past 11 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'1_00054':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - French
+    price_range:
+    - expensive
+    time:
+    - '13:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00055':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Dublin
+    cuisine:
+    - burger
+    date:
+    - 14th of March
+    party_size:
+    - '3'
+    time:
+    - evening 7:15
+    - 7 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+
+'1_00056':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    - Santa Clara
+    cuisine:
+    - Latin American
+    time:
+    - 12:30 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00057':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - American
+    price_range:
+    - moderate
+    time:
+    - 12:45 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant: null
+
+'1_00058':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Fish
+    party_size:
+    - '2'
+    - '1'
+    price_range:
+    - moderate
+    time:
+    - 10:30 in the morning
+    - '12:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'1_00059':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Alameda
+    cuisine:
+    - sushi
+    time:
+    - afternoon 1:15
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00060':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Millbrae
+    cuisine:
+    - Chinese
+    serves_alcohol:
+    - 'True'
+    time:
+    - evening 7:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'1_00061':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Campbell
+    cuisine:
+    - burger
+    date:
+    - 4th of this month
+    - the 1st
+    party_size:
+    - '3'
+    time:
+    - evening 6:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'1_00062':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    cuisine:
+    - Noodles
+    time:
+    - 11:30 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+      street_address: UNK
+
+'1_00063':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Petaluma
+    cuisine:
+    - Pizza
+    time:
+    - half past 1 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'1_00064':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    cuisine:
+    - brunch
+    time:
+    - '11:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'1_00065':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Japanese
+    price_range:
+    - moderate
+    time:
+    - 7:45 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+      time: UNK
+
+'1_00066':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Petaluma
+    cuisine:
+    - Italian
+    party_size:
+    - '6'
+    time:
+    - 5 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'1_00067':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Izakaya
+    time:
+    - 12:30 pm
+    - '19:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+      time: UNK
+
+'1_00068':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - Punjabi
+    time:
+    - 11 oclock in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant: null
+
+'1_00069':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - Freshwater fish
+    date:
+    - 10th of this month
+    - Tuesday next week
+    time:
+    - quarter to 7 in the evening
+    - 1 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00070':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - pizza and pasta
+    date:
+    - March 3rd
+    - 7th of March
+    party_size:
+    - '3'
+    time:
+    - 5:30 in the evening
+    - 11:30 am
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00071':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - pasta
+    - Mexican
+    date:
+    - March 7th
+    price_range:
+    - expensive
+    time:
+    - one in the afternoon
+    - quarter past 12 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00072':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    cuisine:
+    - take-out
+    party_size:
+    - '3'
+    - '4'
+    time:
+    - 1 pm
+    - half past 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'1_00073':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - salad
+    date:
+    - day after tomorrow
+    - 2nd of March
+    has_live_music:
+    - 'True'
+    party_size:
+    - '1'
+    - '3'
+    price_range:
+    - inexpensive
+    time:
+    - 11:30 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00074':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Clara
+    cuisine:
+    - Korean Barbeque
+    price_range:
+    - expensive
+    time:
+    - '20:00'
+    - 7 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00075':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - Japanese
+    date:
+    - the 8th
+    party_size:
+    - '1'
+    - '3'
+    price_range:
+    - expensive
+    serves_alcohol:
+    - 'True'
+    time:
+    - evening 5:45
+    - '11:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'1_00076':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    cuisine:
+    - burger
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - Half past 1 in the afternoon
+    - seven pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00077':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    cuisine:
+    - Mexican
+    time:
+    - 11:30 am
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'1_00078':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - breakfast
+    time:
+    - evening 5:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+      street_address: UNK
+
+'1_00079':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    - Oakland
+    cuisine:
+    - Middle eastern
+    party_size:
+    - '1'
+    price_range:
+    - inexpensive
+    time:
+    - '13:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00080':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Calistoga
+    cuisine:
+    - Taiwanese
+    party_size:
+    - '4'
+    time:
+    - 1:30 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00081':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    cuisine:
+    - Breakfast
+    party_size:
+    - '1'
+    time:
+    - 12:15 in the afternoon
+    - evening 6:45
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00082':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Rafael
+    cuisine:
+    - Sushi
+    - Sichuan
+    date:
+    - Monday next week
+    price_range:
+    - moderate
+    time:
+    - 7 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00083':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Cotati
+    cuisine:
+    - tacos
+    has_live_music:
+    - 'True'
+    party_size:
+    - '2'
+    time:
+    - half past 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'1_00084':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Pizza and Pasta
+    date:
+    - Sunday this week
+    - Thursday next week
+    party_size:
+    - '4'
+    - '5'
+    price_range:
+    - dontcare
+    - moderate
+    time:
+    - '17:30'
+    - '19:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'1_00085':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - Thai
+    party_size:
+    - '1'
+    time:
+    - 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00086':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Bruno
+    cuisine:
+    - Taiwanese
+    party_size:
+    - '6'
+    - '4'
+    price_range:
+    - inexpensive
+    - dontcare
+    time:
+    - half past 12 in the afternoon
+    - eleven am
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'1_00087':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Carlos
+    cuisine:
+    - Greek
+    - Spicy Noodles
+    serves_alcohol:
+    - 'True'
+    time:
+    - '12:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'1_00088':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Petaluma
+    cuisine:
+    - Asian Fusion
+    date:
+    - next Friday
+    - 13th of this month
+    party_size:
+    - '1'
+    - '3'
+    time:
+    - 5:15 in the evening
+    - quarter past 1 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'1_00089':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Campbell
+    cuisine:
+    - pizza and pasta
+    price_range:
+    - moderate
+    time:
+    - '11:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'1_00090':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Burgers
+    serves_alcohol:
+    - 'True'
+    time:
+    - '13:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00091':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Barbecue
+    price_range:
+    - expensive
+    time:
+    - '13:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+      time: UNK
+
+'1_00092':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Sushi
+    party_size:
+    - '1'
+    - '3'
+    time:
+    - afternoon 12
+    - 12:30 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'1_00093':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Antioch
+    cuisine:
+    - lobster
+    party_size:
+    - '1'
+    time:
+    - 4:30 pm
+    - '18:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+
+'1_00094':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Vallejo
+    cuisine:
+    - burger
+    has_live_music:
+    - 'True'
+    time:
+    - 1 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00095':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Mountain View
+    - SF
+    cuisine:
+    - French
+    price_range:
+    - moderate
+    time:
+    - morning 10:30
+    - eleven in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'1_00096':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Russian
+    date:
+    - next Thursday
+    time:
+    - 6:15 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'1_00097':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San francisco
+    cuisine:
+    - burger
+    time:
+    - evening 4:45
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00098':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Rosa
+    cuisine:
+    - ramen
+    date:
+    - 4th of this month
+    price_range:
+    - moderate
+    time:
+    - 10:45 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      street_address: UNK
+      time: UNK
+
+'1_00099':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - asian
+    date:
+    - March 14th
+    party_size:
+    - '3'
+    serves_alcohol:
+    - 'True'
+    time:
+    - half past 7 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00100':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Redwood City
+    cuisine:
+    - Mediterranean
+    time:
+    - '17:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant: null
+
+'1_00101':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fairfield
+    cuisine:
+    - American
+    date:
+    - 13th of this month
+    serves_alcohol:
+    - 'True'
+    time:
+    - 11:15 am
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'1_00102':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Gastrobar
+    date:
+    - 11th of March
+    party_size:
+    - '2'
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - 6 oclock in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'1_00103':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Fish
+    time:
+    - 6:15 pm
+    - evening 5:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00104':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Clara
+    cuisine:
+    - Southern
+    date:
+    - the 8th
+    party_size:
+    - '2'
+    time:
+    - '18:45'
+    - 11:30 am
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'1_00105':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Burlingame
+    cuisine:
+    - Barbecue
+    time:
+    - 1:15 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00106':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Italian
+    date:
+    - 10th of this month
+    price_range:
+    - moderate
+    time:
+    - Afternoon 1:15
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'1_00107':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - Taiwanese
+    party_size:
+    - '3'
+    price_range:
+    - dontcare
+    time:
+    - Half past 1 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00108':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - African
+    date:
+    - the 12th
+    - 3rd of this month
+    has_live_music:
+    - 'True'
+    time:
+    - 11:15 in the morning
+    - '12:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      price_range: UNK
+
+'1_00109':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Walnut Creek
+    cuisine:
+    - to-go
+    price_range:
+    - moderate
+    time:
+    - 6 oclock in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00110':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    cuisine:
+    - Diner
+    price_range:
+    - moderate
+    time:
+    - 5:45 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00111':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Newark
+    cuisine:
+    - curry
+    time:
+    - 7:30 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00112':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Bruno
+    cuisine:
+    - Latin American
+    date:
+    - Next Friday
+    - the 9th
+    party_size:
+    - '6'
+    - '2'
+    serves_alcohol:
+    - 'True'
+    time:
+    - 5:30 in the evening
+    - 6:30 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'1_00113':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    cuisine:
+    - Thai
+    - Oriental
+    date:
+    - the 13th
+    party_size:
+    - '1'
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - '12:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+      street_address: UNK
+
+'1_00114':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - Szcheuan
+    date:
+    - 1st of this month
+    time:
+    - '11:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00115':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Morgan Hill
+    cuisine:
+    - ramen
+    date:
+    - the 12th
+    party_size:
+    - '2'
+    - '3'
+    price_range:
+    - moderate
+    time:
+    - afternoon 12:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'1_00116':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - mountain view
+    cuisine:
+    - cafe
+    date:
+    - next wednesday
+    - march 9th
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - 1 pm
+    - '19:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'1_00117':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fremont
+    cuisine:
+    - fish
+    date:
+    - 14th of March
+    - the 9th
+    party_size:
+    - '1'
+    - '3'
+    time:
+    - '12:30'
+    - 1 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'1_00118':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    cuisine:
+    - Asian
+    party_size:
+    - '1'
+    price_range:
+    - dontcare
+    time:
+    - 1:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'1_00119':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - South San Francisco
+    - San Mateo
+    cuisine:
+    - Sushi
+    party_size:
+    - '2'
+    - '1'
+    price_range:
+    - moderate
+    time:
+    - '12:15'
+    - '10:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'1_00120':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - Pakistani
+    date:
+    - March 14th
+    party_size:
+    - '3'
+    time:
+    - '17:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'1_00121':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - To-go
+    date:
+    - 7th of March
+    - 12th of this month
+    party_size:
+    - '5'
+    - '4'
+    serves_alcohol:
+    - 'True'
+    time:
+    - 6 pm
+    - twelve pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'1_00122':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Parisian
+    time:
+    - quarter past 11 in the morning
+    - evening 6
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'1_00123':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Taiwanese
+    date:
+    - the 6th
+    party_size:
+    - '1'
+    - '3'
+    price_range:
+    - moderate
+    time:
+    - 12 in the afternoon
+    - 5:15 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'1_00124':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - St. Helena
+    cuisine:
+    - Izakaya
+    - Gastrobar
+    date:
+    - 12th of March
+    party_size:
+    - '4'
+    - '6'
+    price_range:
+    - moderate
+    time:
+    - Half past 12 in the afternoon
+    - '17:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00125':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Burger
+    date:
+    - Tuesday next week
+    time:
+    - evening 5
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'1_00126':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Dublin
+    cuisine:
+    - Chinese
+    date:
+    - the 7th
+    - March 9th
+    party_size:
+    - '4'
+    - '2'
+    price_range:
+    - moderate
+    time:
+    - '14:00'
+    - afternoon 1:45
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'1_00127':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasant Hill
+    cuisine:
+    - Asian
+    date:
+    - Tuesday next week
+    time:
+    - '18:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'2_00000':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - Sushi
+    party_size:
+    - '6'
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - five pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'2_00001':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - African
+    date:
+    - 3rd of this month
+    - 14th of March
+    party_size:
+    - '4'
+    - '3'
+    price_range:
+    - moderate
+    time:
+    - afternoon 12:30
+    - evening 5:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'2_00002':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - Japanese
+    date:
+    - Saturday this week
+    party_size:
+    - '1'
+    time:
+    - half past 12 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'2_00003':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Rosa
+    cuisine:
+    - Izakaya
+    date:
+    - today
+    - the 9th
+    party_size:
+    - '3'
+    - '4'
+    time:
+    - 7 oclock in the evening
+    - 1 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00004':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Anselmo
+    cuisine:
+    - Oriental
+    date:
+    - 14th of this month
+    party_size:
+    - '5'
+    time:
+    - one in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      serves_alcohol: UNK
+
+'2_00005':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Danville
+    cuisine:
+    - burger
+    date:
+    - March 9th
+    - March 8th
+    party_size:
+    - '1'
+    time:
+    - quarter past 12 in the afternoon
+    - 6:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+      street_address: UNK
+
+'2_00006':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - seafood
+    party_size:
+    - '1'
+    time:
+    - '17:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00007':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Indian
+    date:
+    - 7th of March
+    time:
+    - '17:30'
+    - half past 7 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'2_00008':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Rosa
+    cuisine:
+    - Italian
+    date:
+    - 11th of March
+    - 4th of this month
+    time:
+    - afternoon 2
+    - six pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'2_00009':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Albany
+    cuisine:
+    - take-out
+    date:
+    - 13th of March
+    - the 10th
+    party_size:
+    - '1'
+    - '4'
+    time:
+    - seven pm
+    - five in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'2_00010':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Sunnyvale
+    cuisine:
+    - non meat
+    party_size:
+    - '1'
+    time:
+    - one pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'2_00011':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - san francisco
+    cuisine:
+    - Freshwater fish
+    date:
+    - 5th of this month
+    party_size:
+    - '5'
+    price_range:
+    - dontcare
+    - expensive
+    time:
+    - half past 5 in the evening
+    - '19:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'2_00012':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Burmese
+    date:
+    - Thursday next week
+    party_size:
+    - '4'
+    time:
+    - 7 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'2_00013':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - breakfast & brunch
+    has_live_music:
+    - 'True'
+    time:
+    - 12:30 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'2_00014':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Japanese
+    date:
+    - this Saturday
+    party_size:
+    - '1'
+    time:
+    - 12:15 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'2_00015':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Burlingame
+    cuisine:
+    - Malaysian
+    date:
+    - the 9th
+    time:
+    - 11 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'2_00016':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Vacaville
+    cuisine:
+    - sushi
+    time:
+    - '13:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'2_00017':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Sausalito
+    cuisine:
+    - Southern
+    time:
+    - '13:30'
+    - one in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'2_00018':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Pasta
+    party_size:
+    - '2'
+    time:
+    - 11:45 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+      time: UNK
+
+'2_00019':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Parisian
+    time:
+    - morning 11
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'2_00020':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - burgers
+    time:
+    - '17:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'2_00021':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    cuisine:
+    - Taiwanese
+    time:
+    - '14:00'
+    - '11:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00022':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Benicia
+    cuisine:
+    - light meal
+    party_size:
+    - '1'
+    time:
+    - 1:30 in the afternoon
+    - 11:30 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'2_00023':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Asian Fusion
+    time:
+    - 7:30 pm
+    - '18:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'2_00024':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - Mediterranean
+    time:
+    - '11:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00025':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    cuisine:
+    - Mexican
+    date:
+    - the 8th
+    time:
+    - 11 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00026':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - Persian
+    date:
+    - March 3rd
+    party_size:
+    - '2'
+    time:
+    - 10:45 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      serves_alcohol: UNK
+
+'2_00027':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Clara
+    cuisine:
+    - Asian Fusion
+    party_size:
+    - '2'
+    time:
+    - '18:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'2_00028':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Afghan
+    time:
+    - 5:30 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'2_00029':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Jamaican
+    date:
+    - 3rd of March
+    - March 4th
+    has_live_music:
+    - 'True'
+    time:
+    - twelve pm
+    - 7:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+      street_address: UNK
+
+'2_00030':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Rosa
+    cuisine:
+    - Szcheuan
+    time:
+    - 5:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'2_00031':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Alamo
+    cuisine:
+    - American
+    date:
+    - March 8th
+    - 14th of this month
+    party_size:
+    - '3'
+    price_range:
+    - moderate
+    time:
+    - seven pm
+    - one in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00032':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Alameda
+    cuisine:
+    - tacos
+    time:
+    - five pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00033':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Shabu-shabu
+    - Barbecue
+    price_range:
+    - moderate
+    - expensive
+    time:
+    - quarter past 5 in the evening
+    - 7 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant: null
+
+'2_00034':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - Spicy Indian
+    date:
+    - March 11th
+    price_range:
+    - moderate
+    time:
+    - morning 11
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'2_00035':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - El Cerrito
+    cuisine:
+    - Korean
+    price_range:
+    - moderate
+    time:
+    - '12:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'2_00036':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Half Moon Bay
+    cuisine:
+    - freshwater fish
+    party_size:
+    - '4'
+    time:
+    - '11:00'
+    - five pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'2_00037':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    cuisine:
+    - French
+    party_size:
+    - '3'
+    time:
+    - 12:45 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+      street_address: UNK
+
+'2_00038':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Mountain View
+    cuisine:
+    - Ramen
+    price_range:
+    - inexpensive
+    time:
+    - 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      street_address: UNK
+
+'2_00039':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    cuisine:
+    - Curry
+    price_range:
+    - moderate
+    time:
+    - evening 6
+    - 7 oclock in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'2_00040':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - South San Francisco
+    cuisine:
+    - Szcheuan
+    price_range:
+    - inexpensive
+    time:
+    - '11:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'2_00041':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    cuisine:
+    - Freshwater fish
+    time:
+    - 6:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'2_00042':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fremont
+    - SFO
+    cuisine:
+    - Izakaya
+    price_range:
+    - moderate
+    time:
+    - 11:30 am
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'2_00043':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Dublin
+    cuisine:
+    - Spicy Indian
+    time:
+    - 5 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00044':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Danville
+    - Milpitas
+    cuisine:
+    - Sushi
+    date:
+    - 11th of March
+    time:
+    - 1 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'2_00045':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Rosa
+    cuisine:
+    - Pizza and Pasta
+    party_size:
+    - '1'
+    - '4'
+    time:
+    - 7:30 pm
+    - afternoon 12:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+
+'2_00046':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Alameda
+    cuisine:
+    - Freshwater fish
+    date:
+    - today
+    - 3rd of this month
+    party_size:
+    - '6'
+    price_range:
+    - moderate
+    time:
+    - 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'2_00047':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Hercules
+    cuisine:
+    - freshwater fish
+    price_range:
+    - moderate
+    time:
+    - 1:30 PM
+    - 6:30 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'2_00048':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    cuisine:
+    - Korean Barbeque
+    date:
+    - tomorrow
+    party_size:
+    - '2'
+    time:
+    - 1 pm
+    - 7:30 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'2_00049':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    cuisine:
+    - Quick meal
+    price_range:
+    - moderate
+    time:
+    - 11:15 am
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      street_address: UNK
+      time: UNK
+
+'2_00050':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Concord
+    cuisine:
+    - Sushi
+    party_size:
+    - '1'
+    price_range:
+    - inexpensive
+    time:
+    - evening 4:45
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'2_00051':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Coffeehouse
+    date:
+    - March 2nd
+    time:
+    - quarter past 1 in the afternoon
+    - 6 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'2_00052':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Foster City
+    cuisine:
+    - Punjabi
+    party_size:
+    - '2'
+    price_range:
+    - inexpensive
+    time:
+    - '13:45'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      street_address: UNK
+      time: UNK
+
+'2_00053':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fairfield
+    cuisine:
+    - Asian Fusion
+    date:
+    - March 11th
+    time:
+    - half past 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00054':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - Pizza and Pasta
+    date:
+    - Sunday this week
+    party_size:
+    - '3'
+    - '4'
+    time:
+    - evening 5
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      price_range: UNK
+      serves_alcohol: UNK
+
+'2_00055':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    cuisine:
+    - Mediterranean
+    time:
+    - 5:30 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+      street_address: UNK
+
+'2_00056':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Richmond
+    cuisine:
+    - Ramen
+    date:
+    - next Friday
+    party_size:
+    - '4'
+    - '3'
+    time:
+    - '18:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00057':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Hayward
+    cuisine:
+    - Lobster
+    time:
+    - 5 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'2_00058':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    - San Fran
+    cuisine:
+    - Persian
+    date:
+    - 2nd of this month
+    - March 12th
+    party_size:
+    - '2'
+    - '1'
+    price_range:
+    - moderate
+    time:
+    - 1:15 pm
+    - 7:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'2_00059':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    cuisine:
+    - Diner
+    price_range:
+    - expensive
+    serves_alcohol:
+    - 'True'
+    time:
+    - 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'2_00060':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Occidental
+    cuisine:
+    - Pizza
+    party_size:
+    - '2'
+    time:
+    - one pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'2_00061':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - To-go
+    price_range:
+    - moderate
+    serves_alcohol:
+    - 'True'
+    time:
+    - 11 in the morning
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'2_00062':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Petaluma
+    cuisine:
+    - curry
+    time:
+    - '11:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'2_00063':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Leandro
+    cuisine:
+    - Persian
+    party_size:
+    - '4'
+    - '1'
+    price_range:
+    - moderate
+    time:
+    - twelve in the afternoon
+    - 7:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'2_00064':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fremont
+    cuisine:
+    - cantonese
+    date:
+    - march 8th
+    time:
+    - Evening 6:45
+    - '12:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'2_00065':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - Punjabi
+    serves_alcohol:
+    - 'True'
+    time:
+    - '11:15'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'2_00066':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    cuisine:
+    - fish
+    date:
+    - the 7th
+    price_range:
+    - moderate
+    time:
+    - 12:45 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'2_00067':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Rosa
+    cuisine:
+    - Barbecue
+    date:
+    - Friday next week
+    - the 6th
+    party_size:
+    - '1'
+    serves_alcohol:
+    - 'True'
+    time:
+    - '19:00'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant: null
+
+'2_00068':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Healdsburg
+    cuisine:
+    - Ramen
+    date:
+    - the 8th
+    party_size:
+    - '4'
+    serves_alcohol:
+    - 'True'
+    time:
+    - afternoon 1:15
+    - evening 7:15
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00069':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    cuisine:
+    - Freshwater fish
+    price_range:
+    - expensive
+    time:
+    - 5 oclock in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'2_00070':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Clara
+    cuisine:
+    - Ramen
+    party_size:
+    - '2'
+    - '1'
+    time:
+    - 2 in the afternoon
+    - quarter past 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      price_range: UNK
+
+'2_00071':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    cuisine:
+    - Peruvian
+    date:
+    - 8th of March
+    time:
+    - '12:15'
+    - quarter to 8 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'2_00072':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pacifica
+    cuisine:
+    - Izakaya
+    date:
+    - the 13th
+    time:
+    - 1 oclock in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'2_00073':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Sausalito
+    cuisine:
+    - Szcheuan
+    date:
+    - this Saturday
+    - the 7th
+    party_size:
+    - '3'
+    - '2'
+    serves_alcohol:
+    - 'True'
+    time:
+    - 4:45 pm
+    - 7:15 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant: null
+
+'2_00074':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Newark
+    cuisine:
+    - Filipino
+    price_range:
+    - moderate
+    time:
+    - '17:30'
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'3_00009':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    restaurant_name:
+    - Palmers
+    time:
+    - afternoon 12
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      phone_number: UNK
+
+'3_00010':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    date:
+    - March 2nd
+    - the 8th
+    restaurant_name:
+    - jannah
+    time:
+    - 4:30 pm
+    - '11:30'
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00011':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    date:
+    - friday next week
+    restaurant_name:
+    - marnee
+    time:
+    - '19:00'
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'3_00012':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    party_size:
+    - '2'
+    restaurant_name:
+    - Erics
+    time:
+    - '17:45'
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00013':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    restaurant_name:
+    - Mcdonalds
+    time:
+    - 4:45 pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00014':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Ramon
+    - Sunnyvale
+    restaurant_name:
+    - Clementines
+    time:
+    - '16:45'
+    - 1:15 in the afternoon
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00015':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Vacaville
+    restaurant_name:
+    - Hisui
+    time:
+    - quarter to 8 in the evening
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00016':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    - El Cerrito
+    date:
+    - later today
+    - March 5th
+    party_size:
+    - '4'
+    - '3'
+    restaurant_name:
+    - Kusakabe
+    - Yoshio
+    time:
+    - evening 6:45
+    - '18:30'
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'3_00017':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    date:
+    - 14th of this month
+    restaurant_name:
+    - Aquitaine
+    time:
+    - 12 oclock in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'3_00018':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    restaurant_name:
+    - Bistro liaison
+    time:
+    - 6:15 in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00019':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    restaurant_name:
+    - Lark
+    time:
+    - five in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      street_address: UNK
+      time: UNK
+
+'3_00020':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Daly City
+    party_size:
+    - '2'
+    restaurant_name:
+    - Taste of Burma
+    time:
+    - quarter past 7 in the evening
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00021':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Concord
+    date:
+    - March 10th
+    restaurant_name:
+    - Agave Grill
+    time:
+    - 1:15 pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00022':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    party_size:
+    - '3'
+    restaurant_name:
+    - Crazy Pepper
+    - Taste of the Himalayas
+    time:
+    - night 8
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+
+'3_00023':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Hayward
+    - Cotati
+    restaurant_name:
+    - Paya
+    - China Chef
+    time:
+    - evening 5
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00024':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    party_size:
+    - '2'
+    restaurant_name:
+    - Pescatore
+    time:
+    - quarter to 1 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00025':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    date:
+    - 9th of this month
+    restaurant_name:
+    - State Bird
+    time:
+    - seven pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00026':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - san fran
+    date:
+    - 10th of march
+    restaurant_name:
+    - thanh long
+    time:
+    - 1:15 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00027':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Cupertino
+    - Hayward
+    restaurant_name:
+    - Yayoi
+    - The Mexican restaurant
+    time:
+    - quarter to 8 in the evening
+    - '18:45'
+  request_slots:
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'3_00028':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Petaluma
+    date:
+    - 10th of this month
+    party_size:
+    - '2'
+    restaurant_name:
+    - Pub Republic
+    time:
+    - '18:00'
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'3_00029':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Alameda
+    restaurant_name:
+    - Angel Fish
+    time:
+    - twelve pm
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      has_live_music: UNK
+      street_address: UNK
+
+'3_00030':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    - San Rafael
+    restaurant_name:
+    - Juerga
+    - Lotus Cuisine
+    time:
+    - 10:45 in the morning
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00031':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    date:
+    - dontcare
+    - 2nd of March
+    party_size:
+    - '3'
+    - '4'
+    restaurant_name:
+    - Maruya
+    time:
+    - 7 in the evening
+    - twelve pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00032':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fairfield
+    date:
+    - dontcare
+    party_size:
+    - '2'
+    restaurant_name:
+    - Mcdonalds
+    time:
+    - six in the evening
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'3_00033':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    date:
+    - 13th of this month
+    restaurant_name:
+    - Kampai Bar
+    time:
+    - 6:30 in the evening
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'3_00034':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasant Hill
+    - Oakland
+    date:
+    - Saturday this week
+    restaurant_name:
+    - Kobe
+    - Homestead
+    time:
+    - afternoon 1:30
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      street_address: UNK
+
+'3_00035':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Rohnert Park
+    restaurant_name:
+    - Bear Republic
+    time:
+    - '19:00'
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00036':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    - Sunnyvale
+    date:
+    - the 13th
+    restaurant_name:
+    - Crab House
+    time:
+    - 6:30 pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00037':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    date:
+    - the 8th
+    restaurant_name:
+    - Sukho
+    time:
+    - '17:00'
+  request_slots:
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'3_00038':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Palo Alto
+    restaurant_name:
+    - Burma Ruby
+    time:
+    - 4:45 pm
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'3_00039':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Concord
+    party_size:
+    - '1'
+    restaurant_name:
+    - El Rancho
+    time:
+    - 7:45 in the evening
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'3_00040':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    date:
+    - 12th of March
+    party_size:
+    - '2'
+    restaurant_name:
+    - Dynasty
+    time:
+    - quarter past 7 in the evening
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00041':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - san jose
+    party_size:
+    - '2'
+    - '3'
+    restaurant_name:
+    - village
+    time:
+    - 11:30 in the morning
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+      serves_alcohol: UNK
+
+'3_00042':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Antioch
+    - Berkeley
+    date:
+    - March 12th
+    - 9th of March
+    restaurant_name:
+    - Tao San Jin
+    - Khana Peena
+    time:
+    - 2 oclock in the afternoon
+    - 12 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      street_address: UNK
+
+'3_00043':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Gilroy
+    restaurant_name:
+    - Sushi Omakase
+    time:
+    - quarter to 7 in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00044':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    date:
+    - 8th of this month
+    party_size:
+    - '1'
+    restaurant_name:
+    - Darda
+    time:
+    - 1:30 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      serves_alcohol: UNK
+
+'3_00045':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Los Gatos
+    date:
+    - 12th of this month
+    party_size:
+    - '1'
+    restaurant_name:
+    - Katsu
+    time:
+    - six in the evening
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00046':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    party_size:
+    - '1'
+    restaurant_name:
+    - Mister Jius
+    time:
+    - evening 7
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00047':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    restaurant_name:
+    - Khana Peena
+    time:
+    - afternoon 1:30
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      street_address: UNK
+
+'3_00048':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    date:
+    - the 7th
+    restaurant_name:
+    - Oneup
+    - Bombay to Goa
+    time:
+    - quarter to 5 in the evening
+    - '17:30'
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'3_00049':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    party_size:
+    - '2'
+    restaurant_name:
+    - Anchor & Hope
+    time:
+    - one in the afternoon
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00050':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Rafael
+    date:
+    - 5th of this month
+    restaurant_name:
+    - Rangecafe
+    time:
+    - 1 pm
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'3_00051':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    date:
+    - 3rd of MArch
+    restaurant_name:
+    - Spencers
+    time:
+    - quarter past 1 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00052':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Vacaville
+    restaurant_name:
+    - Hisui 2
+    - Red Jade
+    time:
+    - 8 oclock in the night
+    - 7:45 in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      has_live_music: UNK
+      street_address: UNK
+
+'3_00053':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    restaurant_name:
+    - Sociale
+    time:
+    - 5 pm
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00054':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    date:
+    - next Monday
+    party_size:
+    - '1'
+    restaurant_name:
+    - Will
+    time:
+    - 11:30 in the morning
+    - eleven in the morning
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      has_live_music: UNK
+      party_size: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00055':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    restaurant_name:
+    - Yum Yum
+    time:
+    - six pm
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00056':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Burlingame
+    date:
+    - the 12th
+    restaurant_name:
+    - Stella Alpina Osteria
+    time:
+    - half past 7 in the evening
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'3_00057':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    party_size:
+    - '4'
+    restaurant_name:
+    - Claw Shack
+    - 3rd Cousin
+    time:
+    - 11:30 am
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00058':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    - SFO
+    date:
+    - 14th of this month
+    - 5th of this month
+    restaurant_name:
+    - Hunan Impression
+    time:
+    - morning 11
+    - evening 5:30
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00059':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Danville
+    date:
+    - 6th of this month
+    restaurant_name:
+    - Luna Loca
+    time:
+    - 5:15 pm
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00060':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - St. Helena
+    restaurant_name:
+    - Golden Harvest
+    time:
+    - 6:30 pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00061':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Los Altos
+    restaurant_name:
+    - Cafe Vitale
+    time:
+    - '19:00'
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00062':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasanton
+    restaurant_name:
+    - Taco Bell
+    time:
+    - evening 6:45
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      date: UNK
+      party_size: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00063':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    party_size:
+    - '3'
+    restaurant_name:
+    - La Laguna
+    time:
+    - six pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00064':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    party_size:
+    - '3'
+    - '1'
+    restaurant_name:
+    - Anar
+    - El Amigo
+    time:
+    - 12 pm
+    - '17:00'
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'3_00065':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    party_size:
+    - '2'
+    restaurant_name:
+    - Ta
+    time:
+    - '17:30'
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'3_00066':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Petaluma
+    date:
+    - later today
+    party_size:
+    - '3'
+    restaurant_name:
+    - Lemongrass
+    time:
+    - six in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      street_address: UNK
+
+'3_00067':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    date:
+    - 14th of this month
+    party_size:
+    - '6'
+    restaurant_name:
+    - Mendozas
+    time:
+    - 7:30 in the evening
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00068':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Gilroy
+    date:
+    - dontcare
+    party_size:
+    - '3'
+    restaurant_name:
+    - Carnitas Michoacan
+    time:
+    - 11:15 am
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'3_00069':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Mountain View
+    restaurant_name:
+    - Paul Martins
+    time:
+    - half past 1 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'3_00070':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Belmont
+    party_size:
+    - '4'
+    restaurant_name:
+    - Sumac
+    time:
+    - half past 5 in the evening
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00071':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - El Cerrito
+    party_size:
+    - '1'
+    restaurant_name:
+    - Katana-ya
+    time:
+    - 11:15 in the morning
+    - 1:15 pm
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'3_00072':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Half Moon Bay
+    restaurant_name:
+    - Cetrella
+    - Celias
+    time:
+    - 1 oclock in the afternoon
+    - 5:30 pm
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00073':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Marshall
+    restaurant_name:
+    - Nicks Cove
+    time:
+    - evening 7:30
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+
+'3_00074':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    party_size:
+    - '1'
+    restaurant_name:
+    - Kabuto
+    time:
+    - 12:30 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'3_00075':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    - Sunnyvale
+    restaurant_name:
+    - Mas
+    - Siam Taste
+    time:
+    - 6 oclock in the evening
+    - 12:30 pm
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00076':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    restaurant_name:
+    - Dong Que
+    time:
+    - twelve pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00077':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Alameda
+    party_size:
+    - '1'
+    restaurant_name:
+    - Applebees
+    - Barrel Head
+    time:
+    - '13:30'
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00078':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    - San Fran
+    restaurant_name:
+    - Bjs
+    - Mazzat
+    time:
+    - '19:30'
+    - half past 4 in the evening
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'3_00079':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Antioch
+    restaurant_name:
+    - Chilis Grill
+    time:
+    - evening 5:30
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'3_00080':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    party_size:
+    - '3'
+    - '2'
+    restaurant_name:
+    - Sushi Yoshizumi
+    time:
+    - half past 11 in the morning
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+      serves_alcohol: UNK
+
+'3_00081':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    date:
+    - dontcare
+    restaurant_name:
+    - Allegro Romano
+    time:
+    - evening 7:30
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      street_address: UNK
+
+'3_00082':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pleasant Hill
+    restaurant_name:
+    - Wences
+    time:
+    - '11:15'
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'3_00083':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    party_size:
+    - '6'
+    - '5'
+    restaurant_name:
+    - Zaoh
+    - Mcdonalds
+    time:
+    - 6 pm
+  request_slots:
+    ReserveRestaurant:
+      street_address: UNK
+
+'3_00084':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Carlos
+    date:
+    - tomorrow
+    party_size:
+    - '3'
+    restaurant_name:
+    - Bikaner
+    - West Park
+    time:
+    - '12:45'
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      time: UNK
+
+'3_00085':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Hayward
+    date:
+    - the 11th
+    - 12th of this month
+    restaurant_name:
+    - Buon Appetito
+    time:
+    - 1:30 pm
+    - '13:00'
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00086':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    restaurant_name:
+    - Kufu-ya
+    time:
+    - 6 in the evening
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00087':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Burlingame
+    date:
+    - 1st of this month
+    party_size:
+    - '1'
+    restaurant_name:
+    - Steelhead
+    time:
+    - '18:30'
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00088':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Rosa
+    restaurant_name:
+    - La Vera
+    time:
+    - 5 in the evening
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'3_00089':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    party_size:
+    - '4'
+    - '5'
+    restaurant_name:
+    - Old Siam
+    time:
+    - seven in the evening
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00090':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    restaurant_name:
+    - Navin
+    time:
+    - 12:15 pm
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'3_00091':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    date:
+    - Wednesday next week
+    party_size:
+    - '3'
+    - '2'
+    restaurant_name:
+    - Koh Samui & The Monkey
+    - Crouching TIger
+    time:
+    - 7 in the evening
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'3_00092':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Walnut Creek
+    - Daly City
+    party_size:
+    - '1'
+    restaurant_name:
+    - Broderick Roadhouse
+    - Egg Roll King
+    time:
+    - evening 5:30
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+
+'3_00093':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    party_size:
+    - '1'
+    restaurant_name:
+    - House of Curries
+    time:
+    - quarter past 5 in the evening
+    - '13:15'
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00094':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    date:
+    - the 8th
+    restaurant_name:
+    - Bobs Steakhouse
+    time:
+    - 5:15 pm
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00095':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Morgan Hill
+    - SFO
+    party_size:
+    - '2'
+    restaurant_name:
+    - Odeum
+    - Celias
+    time:
+    - half past 1 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00096':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Bruno
+    date:
+    - the 2nd
+    - 8th of March
+    restaurant_name:
+    - Amami
+    time:
+    - 5:30 in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      price_range: UNK
+
+'3_00097':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    party_size:
+    - '1'
+    restaurant_name:
+    - Flames Eatery
+    time:
+    - '19:00'
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00098':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Palo Alto
+    date:
+    - next Friday
+    party_size:
+    - '1'
+    restaurant_name:
+    - Jing-jing Szechwan
+    time:
+    - 12:15 pm
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00099':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Burlingame
+    date:
+    - March 12th
+    restaurant_name:
+    - Broadway
+    time:
+    - '12:30'
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'3_00100':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Milpitas
+    party_size:
+    - '1'
+    restaurant_name:
+    - My No.1 Sushi
+    time:
+    - morning 10:45
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00101':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Walnut Creek
+    party_size:
+    - '2'
+    restaurant_name:
+    - Kana
+    time:
+    - eleven am
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      street_address: UNK
+
+'3_00102':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    date:
+    - 4th of this month
+    - March 9th
+    restaurant_name:
+    - China Villa
+    - Wooden Charcoal Barbecue
+    time:
+    - '18:00'
+    - 1 in the afternoon
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00103':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    date:
+    - 2nd of this month
+    restaurant_name:
+    - The View
+    time:
+    - quarter to 7 in the evening
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00104':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    restaurant_name:
+    - Khamsa
+    - Mimis
+    time:
+    - six in the evening
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'3_00105':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Union City
+    - Belmont
+    party_size:
+    - '4'
+    restaurant_name:
+    - Mexico Lindo
+    - The Vans
+    time:
+    - half past 1 in the afternoon
+    - 1:45 pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00106':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Santa Rosa
+    restaurant_name:
+    - Jojo Restaurant
+    time:
+    - 7 pm
+  request_slots:
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'3_00107':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    - Santa Clara
+    party_size:
+    - '4'
+    - '2'
+    restaurant_name:
+    - Sushi Hashiri
+    - El Amigo
+    time:
+    - morning 11:30
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'3_00108':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    date:
+    - March 12th
+    party_size:
+    - '1'
+    restaurant_name:
+    - Hikari Sushi
+    time:
+    - quarter past 5 in the evening
+    - 7:15 pm
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'3_00109':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    party_size:
+    - '6'
+    - '5'
+    restaurant_name:
+    - Cassava
+    time:
+    - eleven am
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00110':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Hayward
+    restaurant_name:
+    - Mcdonalds
+    time:
+    - Evening 7:15
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00111':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    - Healdsburg
+    date:
+    - 2nd of this month
+    party_size:
+    - '1'
+    restaurant_name:
+    - Pampalasa
+    - Willis
+    time:
+    - half past 11 in the morning
+    - 5:30 pm
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+
+'3_00112':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    date:
+    - March 2nd
+    party_size:
+    - '2'
+    restaurant_name:
+    - All Spice
+    time:
+    - afternoon 1:30
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+
+'3_00113':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Half Moon Bay
+    party_size:
+    - '2'
+    restaurant_name:
+    - Shiki
+    time:
+    - one in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      price_range: UNK
+
+'3_00114':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Livermore
+    - San Jose
+    date:
+    - the 14th
+    restaurant_name:
+    - Walia
+    time:
+    - quarter past 1 in the afternoon
+    - 7:30 pm
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+
+'3_00115':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Portola Valley
+    date:
+    - 7th of this month
+    restaurant_name:
+    - Parkside
+    time:
+    - 1:30 in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'3_00116':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Livermore
+    restaurant_name:
+    - La Panotiq
+    time:
+    - '12:00'
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00117':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    date:
+    - 12th of March
+    - 13th of March
+    party_size:
+    - '3'
+    restaurant_name:
+    - Mua
+    time:
+    - 7:15 in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'3_00118':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    date:
+    - the 13th
+    party_size:
+    - '4'
+    restaurant_name:
+    - Limon
+    time:
+    - morning 11:45
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'3_00119':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    party_size:
+    - '4'
+    restaurant_name:
+    - Lark Creek
+    time:
+    - '12:00'
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00120':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    restaurant_name:
+    - McDonalds
+    time:
+    - morning 11:30
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      has_live_music: UNK
+
+'3_00121':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Carlos
+    party_size:
+    - '3'
+    restaurant_name:
+    - Asya
+    time:
+    - 7 in the evening
+    - '13:15'
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'3_00122':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    date:
+    - later today
+    party_size:
+    - '6'
+    restaurant_name:
+    - Foreign Cinema
+    - Black Angus
+    time:
+    - evening 7
+    - half past 7 in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      street_address: UNK
+
+'3_00123':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    party_size:
+    - '1'
+    - '2'
+    restaurant_name:
+    - Pearl River
+    time:
+    - 7:30 in the evening
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'3_00124':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    date:
+    - 4th of March
+    - the 2nd
+    party_size:
+    - '4'
+    restaurant_name:
+    - the Alembic
+    - Paradise Sushi
+    time:
+    - '11:30'
+    - 1:30 pm
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      serves_alcohol: UNK
+
+'3_00125':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    - San Francisco
+    restaurant_name:
+    - Shakewell
+    - Villa Deste
+    time:
+    - 11:30 in the morning
+    - 4:30 pm
+  request_slots:
+    ReserveRestaurant: null
+
+'3_00126':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - san fran
+    restaurant_name:
+    - la traviata
+    time:
+    - 6:30 pm
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'3_00127':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Antioch
+    date:
+    - 7th of this month
+    restaurant_name:
+    - Rice Bowl
+    time:
+    - morning 11:30
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      phone_number: UNK
+      street_address: UNK
+
+'4_00000':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Bruno
+    restaurant_name:
+    - Bjs
+    time:
+    - quarter past 11 in the morning
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'4_00001':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Sunnyvale
+    date:
+    - 12th of this month
+    restaurant_name:
+    - Firehouse Grill
+    time:
+    - 6:45 pm
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      serves_alcohol: UNK
+
+'4_00002':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Lafayette
+    date:
+    - the 6th
+    restaurant_name:
+    - The Park
+    time:
+    - 7 oclock in the evening
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      has_live_music: UNK
+
+'4_00003':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    restaurant_name:
+    - El Tesoro
+    time:
+    - 7:45 in the evening
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'4_00004':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    date:
+    - the 4th
+    - Sunday this week
+    restaurant_name:
+    - Mission Beach Cafe
+    - Hisui 2
+    time:
+    - '18:45'
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+
+'4_00005':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Palo Alto
+    restaurant_name:
+    - Coupa Cafe
+    time:
+    - 4:45 pm
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'4_00006':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Ross
+    date:
+    - the 10th
+    restaurant_name:
+    - Marche Aux Fleurs
+    time:
+    - eleven am
+  request_slots:
+    ReserveRestaurant: null
+
+'4_00007':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Point Reyes Station
+    party_size:
+    - '4'
+    restaurant_name:
+    - Station House
+    time:
+    - eleven in the morning
+  request_slots:
+    ReserveRestaurant: null
+
+'4_00008':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    date:
+    - March 7th
+    restaurant_name:
+    - Rivoli
+    time:
+    - 12 oclock in the afternoon
+  request_slots:
+    ReserveRestaurant: null
+
+'4_00009':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    date:
+    - the 7th
+    restaurant_name:
+    - Little Nepal
+    time:
+    - evening 6:30
+  request_slots:
+    ReserveRestaurant:
+      serves_alcohol: UNK
+      street_address: UNK
+
+'4_00010':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Cupertino
+    restaurant_name:
+    - Rubios
+    time:
+    - '17:30'
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      street_address: UNK
+
+'4_00011':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Rafael
+    date:
+    - March 11th
+    restaurant_name:
+    - Bjs
+    time:
+    - '18:00'
+    - twelve in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+      street_address: UNK
+
+'4_00012':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Ramon
+    date:
+    - 4th of March
+    restaurant_name:
+    - Yayume
+    time:
+    - '18:45'
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+      price_range: UNK
+
+'4_00013':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SFO
+    party_size:
+    - '4'
+    restaurant_name:
+    - Babu Ji
+    time:
+    - 5:30 in the evening
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'4_00014':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Healdsburg
+    restaurant_name:
+    - Campo Fina
+    time:
+    - 5:45 pm
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+
+'4_00015':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    restaurant_name:
+    - Acquerello
+    time:
+    - 6:15 in the evening
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'4_00016':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Palo Alto
+    restaurant_name:
+    - Chef Zhao
+    time:
+    - 11 am
+  request_slots:
+    ReserveRestaurant:
+      price_range: UNK
+      street_address: UNK
+
+'4_00017':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Millbrae
+    restaurant_name:
+    - Yi Yuan
+    time:
+    - seven in the evening
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'4_00018':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Mountain View
+    date:
+    - the 10th
+    restaurant_name:
+    - Sakoon
+    - Peacocks Koriander
+    time:
+    - 6:30 pm
+    - 7 pm
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'43_00000':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Fremont
+    cuisine:
+    - Asian Fusion
+    date:
+    - 10th of March
+    party_size:
+    - '5'
+    price_range:
+    - moderate
+    time:
+    - 1:30 in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'43_00001':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - Japanese
+    time:
+    - 12:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+
+'43_00002':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - European
+    party_size:
+    - '6'
+    - '5'
+    time:
+    - 1 oclock in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+
+'43_00003':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Pacifica
+    cuisine:
+    - Sushi
+    date:
+    - March 1st
+    price_range:
+    - moderate
+    time:
+    - 6 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'43_00004':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Berkeley
+    cuisine:
+    - Shabu-shabu
+    date:
+    - Sunday this week
+    party_size:
+    - '2'
+    time:
+    - 11:30 AM
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'43_00005':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - curry
+    date:
+    - March 2nd
+    party_size:
+    - '3'
+    time:
+    - six pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+
+'43_00006':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Campbell
+    cuisine:
+    - pizza and pasta
+    date:
+    - 14th of March
+    party_size:
+    - '2'
+    serves_alcohol:
+    - 'True'
+    time:
+    - 6 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      phone_number: UNK
+      price_range: UNK
+      restaurant_name: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      price_range: UNK
+
+'43_00007':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - Chinese
+    date:
+    - day after tomorrow
+    - 7th of March
+    party_size:
+    - '2'
+    - '3'
+    time:
+    - Half past 12 in the afternoon
+    - 6 oclock in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant: null
+
+'43_00008':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    cuisine:
+    - veggie
+    date:
+    - Saturday this week
+    time:
+    - afternoon 12:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'43_00009':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Hayward
+    cuisine:
+    - dumplings
+    date:
+    - 11th of this month
+    party_size:
+    - '2'
+    time:
+    - 7:30 pm
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      phone_number: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'43_00010':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Newark
+    cuisine:
+    - Afghan
+    date:
+    - the 7th
+    party_size:
+    - '4'
+    time:
+    - afternoon 1
+    - evening 5
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      serves_alcohol: UNK
+
+'43_00011':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Millbrae
+    cuisine:
+    - noodles
+    date:
+    - March 10th
+    - March 5th
+    price_range:
+    - inexpensive
+    time:
+    - '17:00'
+    - evening 7:30
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+    ReserveRestaurant: null
+
+'43_00012':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - SF
+    cuisine:
+    - California
+    price_range:
+    - expensive
+    time:
+    - twelve in the afternoon
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      has_live_music: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'43_00013':
+  goals:
+    intent:
+    - FindRestaurants
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    cuisine:
+    - burgers
+    party_size:
+    - '2'
+    time:
+    - half past 7 in the evening
+  request_slots:
+    FindRestaurants:
+      city: UNK
+      restaurant_name: UNK
+      serves_alcohol: UNK
+      street_address: UNK
+    ReserveRestaurant:
+      has_live_music: UNK
+      phone_number: UNK
+      price_range: UNK
+
+'43_00092':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Francisco
+    party_size:
+    - '5'
+    restaurant_name:
+    - Sheba Piano
+    time:
+    - '11:30'
+  request_slots:
+    ReserveRestaurant: null
+
+'43_00093':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Mountain View
+    date:
+    - 6th of March
+    restaurant_name:
+    - Chilis Grill
+    time:
+    - 1 oclock in the afternoon
+  request_slots:
+    ReserveRestaurant:
+      has_live_music: UNK
+      serves_alcohol: UNK
+
+'43_00094':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Lafayette
+    party_size:
+    - '5'
+    restaurant_name:
+    - Artisan
+    time:
+    - '12:00'
+  request_slots:
+    ReserveRestaurant:
+      serves_alcohol: UNK
+
+'43_00095':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    restaurant_name:
+    - Pacific Catch
+    time:
+    - 7 pm
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      price_range: UNK
+
+'43_00096':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Jose
+    restaurant_name:
+    - Palermo
+    time:
+    - '19:30'
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+      street_address: UNK
+
+'43_00097':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Petaluma
+    party_size:
+    - '4'
+    restaurant_name:
+    - Brixx Pizzeria
+    time:
+    - 11 am
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      price_range: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'43_00098':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Cupertino
+    restaurant_name:
+    - Fontanas
+    time:
+    - 11:30 in the morning
+  request_slots:
+    ReserveRestaurant:
+      cuisine: UNK
+
+'43_00099':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    - Santa Clara
+    restaurant_name:
+    - Tambo
+    time:
+    - 7 pm
+    - 7:30 pm
+  request_slots:
+    ReserveRestaurant: null
+
+'43_00100':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Mateo
+    date:
+    - next Thursday
+    - this Sunday
+    party_size:
+    - '3'
+    restaurant_name:
+    - Yuzu
+    time:
+    - five pm
+    - '19:00'
+  request_slots:
+    ReserveRestaurant: null
+
+'43_00101':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - San Fran
+    party_size:
+    - '6'
+    restaurant_name:
+    - Kuletos
+    time:
+    - half past 11 in the morning
+  request_slots:
+    ReserveRestaurant:
+      date: UNK
+      party_size: UNK
+      restaurant_name: UNK
+      time: UNK
+
+'43_00102':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Alameda
+    restaurant_name:
+    - Up 2u
+    time:
+    - '19:30'
+  request_slots:
+    ReserveRestaurant:
+      phone_number: UNK
+
+'43_00103':
+  goals:
+    intent:
+    - ReserveRestaurant
+  inform_slots:
+    city:
+    - Oakland
+    restaurant_name:
+    - Koryo
+    time:
+    - twelve pm
+  request_slots:
+    ReserveRestaurant: null

@@ -1,0 +1,3228 @@
+'38_00082':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 5th
+    - March 13th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00083':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Monday next week
+    - Wednesday next week
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00084':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 9th
+    - March 14th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00085':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 10th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00086':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 4th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00087':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 9th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00088':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next Wednesday
+    - 9th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00089':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 6th
+    - 14th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00090':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Wednesday next week
+    - 13th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00091':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Friday next week
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00092':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 1st of March
+    - 9th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00093':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 3rd of March
+    - 4th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00094':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 14th
+    - 12th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00095':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Saturday this week
+    - March 12th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00096':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 5th of March
+    - 2nd of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00097':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Friday next week
+    - the 6th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00098':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next Thursday
+    - 10th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00099':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 9th of March
+    - March 4th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00100':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 6th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00101':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 12th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00102':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 11th of this month
+    - March 9th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00103':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 12th of March
+    - the 5th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00104':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 12th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00105':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 7th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00106':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 4th
+    - March 9th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00107':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Saturday this week
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00108':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 1st of March
+    - 14th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00109':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 9th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00110':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 3rd
+    - 10th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00111':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 14th
+    - March 2nd
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00112':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 9th of march
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00113':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 11th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00114':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Friday next week
+    - the 9th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00115':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 14th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00116':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - march 12th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00117':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 6th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00118':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next friday
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00119':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 10th of this month
+    - the 13th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00120':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - day after tomorrow
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00121':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 10th of March
+    - March 9th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00122':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next Monday
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00123':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 2nd
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00124':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 1st
+    - the 13th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00125':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 12th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00126':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 11th of March
+    - 10th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'38_00127':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 8th
+    - 6th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00000':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 6th
+    - this Sunday
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00001':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 13th
+    - 1st of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00002':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - later today
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00003':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 9th of March
+    - the 13th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00004':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Thursday next week
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00005':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 9th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00006':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 10th of March
+    - March 9th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00007':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 3rd of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00008':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next Thursday
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00009':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 6th of March
+    - 9th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00010':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 12th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00011':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 7th
+    - Wednesday next week
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00012':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next Wednesday
+    - March 9th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00013':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 11th of March
+    - 1st of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00014':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 7th
+    - this Sunday
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00015':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 8th of this month
+    - 1st of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00016':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next Wednesday
+    - 12th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00017':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Monday next week
+    - the 3rd
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00018':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 5th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00019':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 8th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00020':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 1st of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00021':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Next Wednesday
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00022':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 7th of March
+    - March 10th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00023':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - later today
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00024':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 6th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00025':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 5th
+    - 14th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00026':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next Monday
+    - next Tuesday
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00027':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 11th
+    - 12th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00028':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 11th
+    - March 4th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00029':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 6th of this month
+    - 8th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00030':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 2nd
+    - day after tomorrow
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00031':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 13th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00032':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 12th of March
+    - the 13th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00033':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 14th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00034':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 1st of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00035':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - the 7th
+    - 9th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00036':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - Monday next week
+    - 14th of this month
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00037':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - 9th of this month
+    - 8th of March
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00038':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - March 13th
+    - the 12th
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00039':
+  goals:
+    intent:
+    - GetEvents
+    - GetAvailableTime
+  inform_slots:
+    event_date:
+    - next Friday
+    - this Sunday
+  request_slots:
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+    GetEvents:
+      event_name: UNK
+      event_time: UNK
+
+'39_00040':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 12th of March
+    - the 13th
+    event_location:
+    - 2367 Shattuck Avenue
+    event_name:
+    - Chris Webby concert
+    event_time:
+    - half past 12 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00041':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - Monday next week
+    - 9th of this month
+    event_location:
+    - 17705 Hale Avenue
+    event_name:
+    - Dentist appointment
+    event_time:
+    - 9:30 in the morning
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00042':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - next Thursday
+    event_location:
+    - 1 East 161 Street
+    event_name:
+    - Baseball game
+    event_time:
+    - afternoon 12
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00043':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 13th
+    - 8th of this month
+    event_location:
+    - SFO International Airport
+    event_name:
+    - Leave for airport
+    event_time:
+    - quarter to 10 in the night
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00044':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 10th
+    - the 9th
+    event_location:
+    - 2826 Telegraph Avenue
+    event_name:
+    - Restaurant reservation for 6 at Royal Rangoon Restaurant
+    event_time:
+    - 2:15 pm
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00045':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 10th of this month
+    event_location:
+    - 877 West Fremont Avenue Ste J2
+    event_name:
+    - Appointment with Orthoworks Invisalign And Orthodontic Group
+    event_time:
+    - 11 am
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00046':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 4th
+    - March 8th
+    event_location:
+    - 401 East Jefferson Street
+    event_name:
+    - Baseball game
+    event_time:
+    - '14:00'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00047':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 13th of this month
+    event_location:
+    - 777 Pacific Boulevard
+    event_name:
+    - 'Soccer Game: Whitecaps vs Kansas City'
+    event_time:
+    - 09:00
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00048':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 11th
+    - March 14th
+    event_location:
+    - 1657 Willow Pass Road
+    event_name:
+    - Reservation at Lulus Kitchen
+    event_time:
+    - one pm
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00049':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 6th
+    - March 10th
+    event_location:
+    - '5 Bon Air Rd # 114'
+    event_name:
+    - Appointment with Koppe Michael J
+    event_time:
+    - 9 am
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00050':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 5th of March
+    - March 10th
+    event_location:
+    - '2075 Lincoln Avenue # A'
+    event_name:
+    - Dentist appointment with Wirebenders
+    event_time:
+    - quarter past 2 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00051':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - The 6th
+    - 14th of this month
+    event_location:
+    - 23989 Watkins Street
+    event_name:
+    - Table for 2 at Mcdonalds
+    event_time:
+    - evening 5:15
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00052':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 1st of March
+    - 10th of March
+    event_location:
+    - Community gym
+    event_name:
+    - Gym
+    event_time:
+    - 9:45 in the night
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00053':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 7th
+    event_location:
+    - 2905 Grove Way
+    event_name:
+    - Table for 2 at Mcdonalds
+    event_time:
+    - '15:45'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00054':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 4th of March
+    event_location:
+    - 2891 University Avenue
+    event_name:
+    - The Hives Concert
+    event_time:
+    - morning 8:15
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00055':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - next Wednesday
+    event_location:
+    - 1053 Cochrane Road Suite 140
+    event_name:
+    - Hairdresser appointment
+    event_time:
+    - half past 1 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00056':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 6th of March
+    - this Saturday
+    event_location:
+    - 1712 Meridian Avenue
+    event_name:
+    - Restaurant reservation for 4 at Ristorante Fratello
+    event_time:
+    - quarter to 5 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00057':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 11th of March
+    event_location:
+    - 4875 Clayton Road
+    event_name:
+    - Apartment viewing
+    event_time:
+    - 9:30 am
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00058':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 9th
+    - the 6th
+    event_location:
+    - 301 Sycamore Valley Road
+    event_name:
+    - Appointment with Dr. Azadeh Jafarnia
+    event_time:
+    - 2:30 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00059':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 9th of this month
+    - Saturday this week
+    event_location:
+    - 1375 Montecito Avenue
+    event_name:
+    - Property viewing
+    event_time:
+    - morning 8:30
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00060':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 10th
+    - 9th of March
+    event_location:
+    - 235 West 46th Street
+    event_name:
+    - Buddy Guy concert
+    event_time:
+    - 12 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00061':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 5th
+    - the 8th
+    event_location:
+    - 261 Driggs Avenue Brooklyn
+    event_name:
+    - Amber Run Brooklyn concert
+    event_time:
+    - '19:00'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00062':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 4th of this month
+    - March 2nd
+    event_location:
+    - 600 Wilbur Avenue
+    event_name:
+    - Property viewing
+    event_time:
+    - nine am
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00063':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 5th of March
+    - the 13th
+    event_location:
+    - 24307 Southland Drive
+    event_name:
+    - dentist appointment
+    event_time:
+    - 8:30 am
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00064':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - Thursday next week
+    event_location:
+    - 555 Center Avenue
+    event_name:
+    - Movie at Contra Costa Stadium Cinemas
+    event_time:
+    - quarter past 1 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00065':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 12th of March
+    event_location:
+    - '401 Gregory Ln # 248'
+    event_name:
+    - General Practitioner appointment with John Toth D.O.
+    event_time:
+    - 2:30 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00066':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 11th
+    event_location:
+    - Community Gym
+    event_name:
+    - Gym
+    event_time:
+    - night 9:30
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00067':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 12th of March
+    event_location:
+    - 1500 South capitol street southeast
+    event_name:
+    - 'Baseball game: Nationals Vs Reds'
+    event_time:
+    - eight in the night
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00068':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 9th of March
+    - 10th of March
+    event_location:
+    - 858 North Broad Street
+    event_name:
+    - Toto concert
+    event_time:
+    - afternoon 12:45
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00069':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - next Wednesday
+    - 9th of March
+    event_location:
+    - '2508'
+    event_name:
+    - Movie booking for long shot
+    event_time:
+    - quarter to 10 in the morning
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00070':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 12th
+    - 2nd of March
+    event_location:
+    - '5 Bon Air Rd # 114'
+    event_name:
+    - Appointment with Koppe Michael J
+    event_time:
+    - 3:15 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00071':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 10th of March
+    - March 7th
+    event_location:
+    - 2901 East Hastings Street
+    event_name:
+    - Billy Idol concert
+    event_time:
+    - 2:15 pm
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00072':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 5th
+    - 8th of this month
+    event_location:
+    - 50 South San Mateo Drive
+    event_name:
+    - General Practitioner appointment
+    event_time:
+    - afternoon 3
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00073':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 8th
+    - March 11th
+    event_location:
+    - 4175 42151 Blacow Road
+    event_name:
+    - Hairdresser appointment
+    event_time:
+    - afternoon 3
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00074':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 5th
+    - 3rd of this month
+    event_location:
+    - 1880 Solano Avenue
+    event_name:
+    - hairdresser appointment
+    event_time:
+    - 2 pm
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00075':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 14th
+    event_location:
+    - '1015 Fitzuren Road #7'
+    event_name:
+    - Apartment viewing
+    event_time:
+    - 12 pm
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00076':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 13th of this month
+    - the 9th
+    event_location:
+    - 881 7th Avenue
+    event_name:
+    - Joe Hisaishi concert
+    event_time:
+    - 09:45
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00077':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - march 1st
+    - the 7th
+    event_location:
+    - '2664 Berryessa Road # 210'
+    event_name:
+    - Appointment with Quach catherine
+    event_time:
+    - afternoon 2:30
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00078':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 9th of March
+    - March 13th
+    event_location:
+    - '1447 Cedarwood Lane # A'
+    event_name:
+    - Doctor appointment
+    event_time:
+    - 7 pm
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00079':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 4th of March
+    - March 8th
+    event_location:
+    - 1722 First Street
+    event_name:
+    - Movie booking for HIgh Life
+    event_time:
+    - 8:15 am
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00080':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 11th of March
+    - Friday next week
+    event_location:
+    - 1500 South Capitol Street Southeast
+    event_name:
+    - Baseball game
+    event_time:
+    - evening 7:30
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00081':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 13th
+    - 2nd of this month
+    event_location:
+    - 2505 Samaritan Dr
+    event_name:
+    - Dentist appointment with Mark A Watson
+    event_time:
+    - morning 9:30
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00082':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 1st
+    event_location:
+    - 300 Hilary Way
+    event_name:
+    - Viewing at Fountain Plaza Apartments
+    event_time:
+    - nine in the morning
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00083':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 7th of March
+    event_location:
+    - 540 North Santa Cruz Avenue Suite B1
+    event_name:
+    - appointment with Dr. Jaswinder Ghuman
+    event_time:
+    - quarter past 8 in the morning
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00084':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 5th
+    event_location:
+    - 1347 Main Street
+    event_name:
+    - Reservation for 3 people at Market
+    event_time:
+    - '18:15'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00085':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 5th of March
+    event_location:
+    - 3911 Figueroa Street
+    event_name:
+    - 'Football Game: Usc Vs Utah'
+    event_time:
+    - 1:30 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00086':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 8th
+    - the 10th
+    event_location:
+    - 1234 West 7th Street
+    event_name:
+    - Murder City Devils concert
+    event_time:
+    - 8:45 am
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00087':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - Saturday this week
+    event_location:
+    - 19920 Olivewood Street
+    event_name:
+    - Apartment viewing at Pointe At Cupertino
+    event_time:
+    - one pm
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00088':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 5th of March
+    - March 7th
+    event_location:
+    - 65 West Main Street
+    event_name:
+    - Hairdresser appointment
+    event_time:
+    - 3 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00089':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 4th
+    - 12th of March
+    event_location:
+    - '41277 Roberts Ave # 32'
+    event_name:
+    - Viewing at Felson Management Corporation
+    event_time:
+    - '12:30'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00090':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 3rd of this month
+    - Thursday next week
+    event_location:
+    - 50 East Market Street
+    event_name:
+    - Viewing at Villa Fontana Apartments
+    event_time:
+    - quarter past 6 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00091':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - Monday next week
+    event_location:
+    - 960 Blossom Hill Road
+    event_name:
+    - Stylist appointment at Kinder Cuts Kids Hair Salon
+    event_time:
+    - half past 11 in the morning
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00092':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - thursday next week
+    - the 10th
+    event_location:
+    - 2500 milvia street
+    event_name:
+    - General Practitioner Appointment with Roxanne C. Fiscella M.D.
+    event_time:
+    - half past 12 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00093':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 9th
+    - 12th of this month
+    event_location:
+    - '10095 Saich Way #2'
+    event_name:
+    - Hairdresser appointment
+    event_time:
+    - '14:00'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00094':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - Thursday next week
+    event_location:
+    - Community gym
+    event_name:
+    - Gym
+    event_time:
+    - quarter past 9 in the night
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00095':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 4th
+    event_location:
+    - 3455 Homestead Road
+    event_name:
+    - Apartment viewing
+    event_time:
+    - quarter to 7 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00096':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 2nd
+    - the 13th
+    event_location:
+    - Home
+    event_name:
+    - Bedtime
+    event_time:
+    - 9:30 in the night
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00097':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - The 10th
+    - next Monday
+    event_location:
+    - 128 El Cerrito Plz
+    event_name:
+    - Dentist appointment
+    event_time:
+    - morning 11:15
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00098':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - march 13th
+    - March 3rd
+    event_location:
+    - 341 7th Street
+    event_name:
+    - Appointment at the Dreadlocks Salon
+    event_time:
+    - 08:45
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00099':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 10th of March
+    - next Monday
+    event_location:
+    - 2227 Piedmont Avenue
+    event_name:
+    - 'Football Game: Golden Bears Vs Trojans'
+    event_time:
+    - 5:30 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00100':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - this Sunday
+    - Monday next week
+    event_location:
+    - Laundry room
+    event_name:
+    - Laundry
+    event_time:
+    - night 9:45
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00101':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 5th of this month
+    - the 14th
+    event_location:
+    - 49 Gold Mine Drive
+    event_name:
+    - Property viewing
+    event_time:
+    - half past 11 in the morning
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00102':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 12th of this month
+    event_location:
+    - '31 Panoramic Way #201'
+    event_name:
+    - General Practitioner appointment
+    event_time:
+    - morning 9:30
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+      event_date: UNK
+
+'39_00103':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - The 9th
+    - the 7th
+    event_location:
+    - 33306 Alvarado-Niles Road
+    event_name:
+    - Reservation for 3 people at Mexico Lindo
+    event_time:
+    - 1 oclock in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00104':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 13th
+    - 14th of March
+    event_location:
+    - 1374 9th Avenue
+    event_name:
+    - Hairdresser appointment
+    event_time:
+    - 6:30 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00105':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 2nd of this month
+    - 14th of this month
+    event_location:
+    - 5500 Campanile Drive
+    event_name:
+    - Alejandro Sanz concert
+    event_time:
+    - 6:30 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00106':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 13th of this month
+    - next Monday
+    event_location:
+    - 801 Welch Road
+    event_name:
+    - ENT Specialist appointment
+    event_time:
+    - '14:30'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00107':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 14th
+    event_location:
+    - 100 Summerfield Drive
+    event_name:
+    - Property viewing
+    event_time:
+    - '15:30'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00108':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - next Wednesday
+    - March 7th
+    event_location:
+    - 6000 Bollinger Canyon Road Suite 2300
+    event_name:
+    - Movie at THE LOT City Center
+    event_time:
+    - seven pm
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00109':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - the 4th
+    event_location:
+    - 4045 East Castro Valley Boulevard
+    event_name:
+    - Appointment at Great Clips
+    event_time:
+    - half past 6 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00110':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - The 9th
+    event_location:
+    - 89 South Street
+    event_name:
+    - The Struts concert
+    event_time:
+    - 5 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00111':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - next Friday
+    - the 3rd
+    event_location:
+    - 400 East Remington Drive
+    event_name:
+    - Viewing at Apricot Pit Apartments
+    event_time:
+    - '15:30'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00112':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 1st of March
+    event_location:
+    - 90 Old Courthouse Square
+    event_name:
+    - Restaurant reservation for 3 at Perch + Plow
+    event_time:
+    - evening 6
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00113':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 12th
+    - the 14th
+    event_location:
+    - 34348 Alvarado-Niles Road
+    event_name:
+    - reservation for 5 people at Mayflower Seafood Restaurant
+    event_time:
+    - eleven am
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00114':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - Saturday this week
+    event_location:
+    - 994 The Alameda
+    event_name:
+    - hairdresser appointment
+    event_time:
+    - 5 in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00115':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 14th of this month
+    - the 9th
+    event_location:
+    - 344 East Hamilton Avenue
+    event_name:
+    - Ophthalmologist appointment with Dr. Edward J. Saub
+    event_time:
+    - '11:00'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00116':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 12th
+    event_location:
+    - 200 South 3rd Street
+    event_name:
+    - Young The Giant concert
+    event_time:
+    - 7 oclock in the evening
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00117':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 2nd of this month
+    event_location:
+    - 4343 Renaissance Drive
+    event_name:
+    - Apartment viewing at The Enclave
+    event_time:
+    - afternoon 3
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00118':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - March 14th
+    - 1st of March
+    event_location:
+    - 1460 North Camino Alto
+    event_name:
+    - Ophthalmologist appointment with Rona Silkiss MD FACS
+    event_time:
+    - half past 1 in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00119':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 10th of this month
+    event_location:
+    - 2290 California Street
+    event_name:
+    - Apartment viewing at Arbors At Mountain View
+    event_time:
+    - two in the afternoon
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00120':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 1st of this month
+    - March 13th
+    event_location:
+    - 50 Upper Alabama Street
+    event_name:
+    - Taking Back Sunday concert
+    event_time:
+    - '19:00'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00121':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - 9th of this month
+    event_location:
+    - 1111 Southwest Broadway
+    event_name:
+    - Erica Fernandez concert
+    event_time:
+    - '18:30'
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK
+
+'39_00122':
+  goals:
+    intent:
+    - GetAvailableTime
+    - AddEvent
+  inform_slots:
+    event_date:
+    - Monday next week
+    - the 9th
+    event_location:
+    - 1919 Mount Diablo Boulevard
+    event_name:
+    - Hairdresser appointment
+    event_time:
+    - half past 11 in the morning
+  request_slots:
+    AddEvent: null
+    GetAvailableTime:
+      available_end_time: UNK
+      available_start_time: UNK

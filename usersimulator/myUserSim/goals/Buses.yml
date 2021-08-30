@@ -1,0 +1,6934 @@
+'25_00119':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Long Beach
+    leaving_date:
+    - March 14th
+    to_location:
+    - Sacramento
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'25_00120':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - SD
+    leaving_date:
+    - Tuesday next week
+    to_location:
+    - Long Beach CA
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'25_00121':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - LAX
+    leaving_date:
+    - 2nd of this month
+    to_location:
+    - SD
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'25_00122':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - San Francisco
+    leaving_date:
+    - 1st of March
+    to_location:
+    - LAX
+    travelers:
+    - '4'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'25_00123':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - San Francisco
+    leaving_date:
+    - Monday next week
+    to_location:
+    - Long Beach CA
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'25_00124':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Las Vegas
+    - San Diego
+    leaving_date:
+    - Next monday
+    to_location:
+    - Anaheim CA
+    travelers:
+    - '1'
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'25_00125':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Las Vegas
+    leaving_date:
+    - March 3rd
+    to_location:
+    - LA
+    travelers:
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'25_00126':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Sacramento
+    - Las Vegas
+    leaving_date:
+    - March 11th
+    to_location:
+    - Long Beach
+    - Fresno
+    travelers:
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'25_00127':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Long Beach
+    leaving_date:
+    - 6th of March
+    to_location:
+    - Sacramento CA
+    - Los Angeles
+    travelers:
+    - '3'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00000':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Long Beach
+    leaving_date:
+    - 6th of March
+    to_location:
+    - SD
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00001':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - San Fran
+    leaving_date:
+    - 12th of March
+    to_location:
+    - Sacramento CA
+    travelers:
+    - '4'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00002':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - the 10th
+    to_location:
+    - SF
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00003':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - SD
+    leaving_date:
+    - 13th of this month
+    to_location:
+    - Sf
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00004':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - New York City
+    leaving_date:
+    - 9th of March
+    to_location:
+    - Philadelphia
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00005':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - March 6th
+    to_location:
+    - LAX
+    travelers:
+    - '4'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00006':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - this Sunday
+    to_location:
+    - Vegas
+    travelers:
+    - '4'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00007':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - March 3rd
+    to_location:
+    - San Diego
+    travelers:
+    - '4'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00008':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - next Wednesday
+    to_location:
+    - SD
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00009':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Long Beach CA
+    leaving_date:
+    - 10th of March
+    to_location:
+    - LAX
+    travelers:
+    - '3'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00010':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - 14th of march
+    to_location:
+    - Long Beach CA
+    travelers:
+    - '1'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00011':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - SFO
+    leaving_date:
+    - March 9th
+    to_location:
+    - Sacramento
+    - Long Beach CA
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00012':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Long Beach CA
+    leaving_date:
+    - the 8th
+    to_location:
+    - San Francisco
+    travelers:
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00013':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Long Beach CA
+    leaving_date:
+    - 12th of March
+    to_location:
+    - San Fran
+    travelers:
+    - '4'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00014':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - SFO
+    leaving_date:
+    - the 12th
+    to_location:
+    - LA
+    travelers:
+    - '3'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00015':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - philadelphia
+    leaving_date:
+    - 10th of march
+    to_location:
+    - washington
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00016':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - LA
+    - Las Vegas
+    leaving_date:
+    - 5th of this month
+    to_location:
+    - SD
+    - Long Beach
+    travelers:
+    - '3'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00017':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - SFO
+    leaving_date:
+    - Tuesday next week
+    to_location:
+    - Sacramento CA
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00018':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - 14th of this month
+    to_location:
+    - Long Beach
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00019':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - San Diego
+    leaving_date:
+    - 13th of this month
+    - march 7th
+    to_location:
+    - sacramento
+    travelers:
+    - '1'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00020':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - San Francisco
+    leaving_date:
+    - later today
+    to_location:
+    - LA
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00021':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - LAX
+    leaving_date:
+    - the 6th
+    to_location:
+    - Anaheim
+    travelers:
+    - '1'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00022':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - the 13th
+    to_location:
+    - Vegas
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00023':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - SFO
+    leaving_date:
+    - March 13th
+    - the 12th
+    to_location:
+    - Long Beach CA
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00024':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Long Beach
+    leaving_date:
+    - 14th of this month
+    to_location:
+    - SD
+    travelers:
+    - '1'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00025':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - 14th of this month
+    to_location:
+    - SD
+    travelers:
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00026':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - the 14th
+    to_location:
+    - LAX
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00027':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - san diego
+    leaving_date:
+    - 3rd of this month
+    to_location:
+    - LAX
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00028':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - LA
+    leaving_date:
+    - 8th of March
+    to_location:
+    - SFO
+    travelers:
+    - '3'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'26_00029':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - New York City
+    leaving_date:
+    - later today
+    to_location:
+    - Washington
+    travelers:
+    - '4'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00030':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Long Beach
+    leaving_date:
+    - today
+    to_location:
+    - San Fran
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00031':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - long beach CA
+    leaving_date:
+    - march 2nd
+    to_location:
+    - san Francisco
+    travelers:
+    - '1'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'26_00032':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - next Thursday
+    - 13th of this month
+    to_location:
+    - San Fran
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00108':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Washington
+    leaving_date:
+    - 11th of March
+    to_location:
+    - New York
+    travelers:
+    - '2'
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00109':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    - LAX
+    leaving_date:
+    - Thursday next week
+    to_location:
+    - SD
+    travelers:
+    - '4'
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00110':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Washington
+    leaving_date:
+    - 10th of March
+    to_location:
+    - Philly
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00111':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - San Francisco
+    leaving_date:
+    - the 9th
+    to_location:
+    - Los Angeles
+    travelers:
+    - '2'
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00112':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - 12th of March
+    - March 11th
+    to_location:
+    - Fresno
+    - Vegas
+    travelers:
+    - '2'
+    - '3'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00113':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - 2nd of this month
+    to_location:
+    - Fresno
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00114':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno CA
+    - Sacramento
+    leaving_date:
+    - March 8th
+    to_location:
+    - Vegas
+    travelers:
+    - '3'
+    - '1'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00115':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento
+    - SD
+    leaving_date:
+    - March 6th
+    to_location:
+    - Long Beach
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00116':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - 5th of March
+    to_location:
+    - Sacramento CA
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00117':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - San Fran
+    leaving_date:
+    - the 11th
+    to_location:
+    - LAX
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00118':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - 11th of March
+    to_location:
+    - SF
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00119':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SD
+    - Sacramento CA
+    leaving_date:
+    - 3rd of this month
+    to_location:
+    - Anaheim CA
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00120':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - March 13th
+    to_location:
+    - Los Angeles
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00121':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - WAshington
+    leaving_date:
+    - 8th of March
+    to_location:
+    - NY
+    travelers:
+    - '1'
+    - '4'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00122':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - the 1st
+    to_location:
+    - Long Beach CA
+    - LA
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00123':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    - Sacramento CA
+    leaving_date:
+    - March 5th
+    to_location:
+    - Anaheim
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00124':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - 2nd of this month
+    to_location:
+    - LAX
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00125':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Vegas
+    leaving_date:
+    - Saturday this week
+    to_location:
+    - San Fran
+    travelers:
+    - '4'
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'27_00126':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - the 12th
+    to_location:
+    - Fresno
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'27_00127':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Vegas
+    leaving_date:
+    - Monday next week
+    to_location:
+    - San Francisco
+    travelers:
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00000':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - later today
+    to_location:
+    - SD
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00001':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SF
+    leaving_date:
+    - March 3rd
+    to_location:
+    - Sacramento CA
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00002':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento CA
+    leaving_date:
+    - 13th of this month
+    to_location:
+    - San Diego
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00003':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento CA
+    leaving_date:
+    - next Wednesday
+    to_location:
+    - San Diego
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00004':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - March 14th
+    to_location:
+    - SFO
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00005':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Portland OR
+    leaving_date:
+    - the 2nd
+    to_location:
+    - Seattle WA
+    travelers:
+    - '2'
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00006':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - San Fran
+    leaving_date:
+    - the 7th
+    to_location:
+    - Sacramento CA
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00007':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno
+    leaving_date:
+    - March 14th
+    to_location:
+    - Las Vegas
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00008':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - the 14th
+    to_location:
+    - Vegas
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00009':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento CA
+    leaving_date:
+    - 11th of this month
+    to_location:
+    - San Diego
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00010':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - SFO
+    leaving_date:
+    - today
+    to_location:
+    - Fresno CA
+    travelers:
+    - '3'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00011':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - 14th of this month
+    to_location:
+    - San Francisco
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00012':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno
+    leaving_date:
+    - 5th of this month
+    to_location:
+    - Long Beach CA
+    travelers:
+    - '3'
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00013':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Long Beach CA
+    leaving_date:
+    - March 9th
+    to_location:
+    - Fresno CA
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00014':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Las Vegas
+    - Sacramento CA
+    leaving_date:
+    - 14th of March
+    to_location:
+    - San Francisco
+    - Long Beach
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00015':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - LA
+    leaving_date:
+    - next Monday
+    to_location:
+    - Fresno CA
+    - Long Beach CA
+    travelers:
+    - '1'
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00016':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - 8th of this month
+    to_location:
+    - San Diego
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00017':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - March 10th
+    to_location:
+    - San Diego
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00018':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - San Diego
+    leaving_date:
+    - 4th of this month
+    to_location:
+    - Fresno CA
+    travelers:
+    - '4'
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00019':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - New York
+    leaving_date:
+    - 13th of March
+    - March 14th
+    to_location:
+    - San Diego
+    - Washington
+    travelers:
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00020':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Long Beach CA
+    leaving_date:
+    - the 13th
+    to_location:
+    - LA
+    travelers:
+    - '4'
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00021':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Portland OR
+    leaving_date:
+    - March 9th
+    to_location:
+    - Vancouver
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00022':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Vegas
+    leaving_date:
+    - March 11th
+    to_location:
+    - Fresno
+    travelers:
+    - '3'
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00023':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - 1st of this month
+    - the 5th
+    to_location:
+    - Fresno CA
+    travelers:
+    - '3'
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00024':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Long Beach
+    leaving_date:
+    - March 14th
+    to_location:
+    - LA
+    travelers:
+    - '1'
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00025':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento CA
+    leaving_date:
+    - 1st of this month
+    to_location:
+    - San Diego
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00026':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Las Vegas
+    leaving_date:
+    - the 7th
+    to_location:
+    - LA
+    travelers:
+    - '1'
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00027':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Seattle WA
+    leaving_date:
+    - the 2nd
+    to_location:
+    - Portland
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00028':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Los Angeles
+    leaving_date:
+    - this Saturday
+    to_location:
+    - SFO
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00029':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - LAX
+    leaving_date:
+    - the 13th
+    to_location:
+    - Long Beach CA
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00030':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - 11th of March
+    to_location:
+    - LA
+    travelers:
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00031':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - LAX
+    leaving_date:
+    - 1st of March
+    to_location:
+    - San Fran
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00032':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Long Beach CA
+    leaving_date:
+    - 9th of March
+    to_location:
+    - San Francisco
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00033':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Portland
+    leaving_date:
+    - March 13th
+    to_location:
+    - Vancouver
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00034':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - Thursday next week
+    to_location:
+    - SD
+    - Sacramento
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00035':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Portland OR
+    leaving_date:
+    - 14th of this month
+    to_location:
+    - Vancouver BC
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00036':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Las Vegas
+    leaving_date:
+    - March 9th
+    to_location:
+    - SFO
+    travelers:
+    - '2'
+    - '4'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00037':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - the 13th
+    to_location:
+    - Fresno
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00038':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - San Diego
+    - Long Beach
+    leaving_date:
+    - 9th of this month
+    to_location:
+    - Sacramento CA
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00039':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Vancouver
+    leaving_date:
+    - 3rd of March
+    to_location:
+    - Seattle
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00040':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SD
+    leaving_date:
+    - 9th of this month
+    to_location:
+    - Los Angeles
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00041':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim CA
+    leaving_date:
+    - 13th of this month
+    to_location:
+    - Sacramento
+    travelers:
+    - '3'
+  request_slots:
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00042':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - LA
+    leaving_date:
+    - the 9th
+    - 1st of March
+    to_location:
+    - Fresno Ca
+    travelers:
+    - '2'
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00043':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - 13th of March
+    to_location:
+    - LA
+    travelers:
+    - '3'
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00044':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Los Angeles
+    leaving_date:
+    - 13th of this month
+    - Tuesday next week
+    to_location:
+    - SF
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00045':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - San Diego
+    leaving_date:
+    - the 12th
+    to_location:
+    - Fresno
+    travelers:
+    - '1'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00046':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SD
+    leaving_date:
+    - March 9th
+    to_location:
+    - San Fran
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00047':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno
+    leaving_date:
+    - 14th of March
+    to_location:
+    - SF
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00048':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Long Beach
+    leaving_date:
+    - the 2nd
+    - 6th of March
+    to_location:
+    - Las Vegas
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00049':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - San Fran
+    leaving_date:
+    - 11th of this month
+    to_location:
+    - LAX
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00050':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno CA
+    leaving_date:
+    - March 10th
+    to_location:
+    - San Francisco
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00051':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Washington
+    leaving_date:
+    - March 11th
+    - Saturday this week
+    to_location:
+    - NYC
+    travelers:
+    - '4'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00052':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - March 13th
+    to_location:
+    - Vegas
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00053':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - next Wednesday
+    to_location:
+    - Sacramento
+    travelers:
+    - '1'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00054':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - LA
+    - Sacramento CA
+    leaving_date:
+    - Tuesday next week
+    to_location:
+    - San Francisco
+    travelers:
+    - '4'
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00055':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Seattle
+    leaving_date:
+    - the 12th
+    to_location:
+    - San Francisco
+    - Portland
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00056':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Long Beach CA
+    leaving_date:
+    - this Saturday
+    to_location:
+    - Fresno CA
+    travelers:
+    - '3'
+    - '2'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00057':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - 12th of this month
+    to_location:
+    - San Francisco
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00058':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - 4th of this month
+    to_location:
+    - Las Vegas
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00059':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - March 14th
+    to_location:
+    - San Diego
+    travelers:
+    - '2'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00060':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Portland OR
+    - Seattle
+    leaving_date:
+    - 4th of March
+    to_location:
+    - Portland OR
+    travelers:
+    - '1'
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00061':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Las Vegas
+    leaving_date:
+    - 9th of this month
+    - 10th of this month
+    to_location:
+    - Anaheim
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00062':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SD
+    leaving_date:
+    - 2nd of this month
+    to_location:
+    - Long Beach CA
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00063':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - Thursday next week
+    to_location:
+    - San Fran
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00064':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Seattle
+    leaving_date:
+    - 3rd of this month
+    - 8th of March
+    to_location:
+    - Portland OR
+    travelers:
+    - '4'
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00065':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    leaving_date:
+    - the 2nd
+    to_location:
+    - Sacramento
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00066':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Washington
+    leaving_date:
+    - March 3rd
+    to_location:
+    - Philly
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00067':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - NYC
+    leaving_date:
+    - 12th of March
+    to_location:
+    - Washington
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00068':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SD
+    leaving_date:
+    - 5th of this month
+    to_location:
+    - LA
+    - Sacramento CA
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00069':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Philadelphia
+    leaving_date:
+    - next Wednesday
+    to_location:
+    - Washington
+    travelers:
+    - '4'
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00070':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Fresno
+    - Long Beach CA
+    leaving_date:
+    - March 13th
+    to_location:
+    - Las Vegas
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00071':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - NY
+    leaving_date:
+    - the 7th
+    to_location:
+    - Philadelphia
+    travelers:
+    - '4'
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00072':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - March 7th
+    to_location:
+    - SD
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00073':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Washington
+    leaving_date:
+    - next Wednesday
+    to_location:
+    - Philly
+    travelers:
+    - '2'
+  request_slots:
+    BuyBusTicket:
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00074':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Vancouver BC
+    leaving_date:
+    - the 8th
+    to_location:
+    - Seattle WA
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00075':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - long beach
+    - fresno CA
+    leaving_date:
+    - 14th of march
+    - 10th of march
+    to_location:
+    - Long beach
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00076':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - LA
+    leaving_date:
+    - 4th of March
+    to_location:
+    - Sacramento
+    - SF
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00077':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - San Diego
+    leaving_date:
+    - March 13th
+    to_location:
+    - Las Vegas
+    - Anaheim
+    travelers:
+    - '1'
+    - '2'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00078':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Portland OR
+    leaving_date:
+    - today
+    to_location:
+    - Vancouver
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00079':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento CA
+    - Fresno CA
+    leaving_date:
+    - next Tuesday
+    to_location:
+    - San Fran
+    - LAX
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00080':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SF
+    - Anaheim CA
+    leaving_date:
+    - 3rd of March
+    to_location:
+    - Sacramento CA
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00081':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SD
+    leaving_date:
+    - next Friday
+    to_location:
+    - Anaheim CA
+    travelers:
+    - '3'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00082':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - LAX
+    leaving_date:
+    - the 1st
+    to_location:
+    - Fresno
+    travelers:
+    - '3'
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00083':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Anaheim
+    - Long Beach
+    leaving_date:
+    - 6th of March
+    - 5th of this month
+    to_location:
+    - Sacramento CA
+    travelers:
+    - '4'
+    - '2'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00084':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Los Angeles
+    leaving_date:
+    - 2nd of March
+    to_location:
+    - Fresno Ca
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00085':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - NY
+    leaving_date:
+    - 11th of March
+    to_location:
+    - Philly
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00086':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - Sacramento
+    leaving_date:
+    - March 9th
+    to_location:
+    - San Fran
+    travelers:
+    - '4'
+  request_slots:
+    BuyBusTicket:
+      from_station: UNK
+      to_station: UNK
+    FindBus:
+      fare: UNK
+      leaving_time: UNK
+      transfers: UNK
+
+'28_00087':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    from_location:
+    - SF
+    leaving_date:
+    - 8th of March
+    to_location:
+    - Sacramento CA
+    travelers:
+    - '1'
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+
+'28_00088':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    from_location:
+    - San Francisco
+    - Fresno
+    leaving_date:
+    - 13th of March
+    to_location:
+    - San Diego
+    travelers:
+    - '2'
+    - '1'
+  request_slots:
+    FindBus:
+      fare: UNK
+      from_station: UNK
+      leaving_time: UNK
+      to_station: UNK
+      transfers: UNK
+'25_00074':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 3rd of this month
+    destination:
+    - LAX
+    fare_type:
+    - Economy
+    group_size:
+    - '3'
+    origin:
+    - Vegas
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00075':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 8th of this month
+    destination:
+    - Long Beach
+    fare_type:
+    - Flexible
+    origin:
+    - San Fran
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00076':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - next Tuesday
+    - next Wednesday
+    destination:
+    - Fresno
+    fare_type:
+    - Economy extra
+    - Flexible
+    group_size:
+    - '4'
+    origin:
+    - Sacramento CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00077':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 10th of March
+    destination:
+    - SFO
+    fare_type:
+    - Economy
+    group_size:
+    - '4'
+    origin:
+    - Vegas
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00078':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 12th
+    destination:
+    - Fresno
+    fare_type:
+    - Economy extra
+    origin:
+    - SFO
+    - Long Beach CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00079':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 1st
+    destination:
+    - Portland OR
+    fare_type:
+    - Flexible
+    group_size:
+    - '2'
+    origin:
+    - Los Angeles
+    - Vancouver
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00080':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 9th
+    destination:
+    - San Fran
+    fare_type:
+    - dontcare
+    origin:
+    - Vegas
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00081':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - Saturday this week
+    destination:
+    - Fresno
+    group_size:
+    - '4'
+    origin:
+    - LAX
+    - Anaheim
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00082':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 14th
+    destination:
+    - Fresno
+    origin:
+    - Long Beach
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00083':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 9th
+    destination:
+    - Sacramento CA
+    fare_type:
+    - Economy
+    origin:
+    - Long Beach
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00084':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - next Thursday
+    destination:
+    - Anaheim CA
+    fare_type:
+    - dontcare
+    group_size:
+    - '3'
+    origin:
+    - SD
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00085':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 1st
+    destination:
+    - San Fran
+    - Long Beach CA
+    fare_type:
+    - Economy extra
+    group_size:
+    - '3'
+    origin:
+    - Fresno CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00086':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - march 14th
+    destination:
+    - SD
+    origin:
+    - Long Beach CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00087':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - this Saturday
+    destination:
+    - Fresno CA
+    fare_type:
+    - Flexible
+    origin:
+    - Vegas
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00088':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 11th
+    destination:
+    - Fresno
+    origin:
+    - SFO
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00089':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 3rd
+    destination:
+    - LAX
+    fare_type:
+    - Economy extra
+    origin:
+    - Sacramento
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00090':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - Tomorrow
+    destination:
+    - Las Vegas
+    origin:
+    - Fresno
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00091':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - this saturday
+    destination:
+    - Philadelphia
+    fare_type:
+    - Economy
+    origin:
+    - NY
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00092':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 4th of this month
+    destination:
+    - Fresno CA
+    fare_type:
+    - Flexible
+    group_size:
+    - '3'
+    origin:
+    - SD
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00093':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 11th of March
+    destination:
+    - LA
+    fare_type:
+    - Economy
+    origin:
+    - San Francisco
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00094':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - next Wednesday
+    destination:
+    - Sacramento
+    origin:
+    - Anaheim CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00095':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 13th of March
+    destination:
+    - Washington
+    origin:
+    - NY
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00096':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 11th of March
+    destination:
+    - Sacramento
+    origin:
+    - Anaheim
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00097':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - march 7th
+    destination:
+    - Vancouver BC
+    group_size:
+    - '4'
+    origin:
+    - Seattle
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00098':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 1st
+    destination:
+    - Sacramento CA
+    fare_type:
+    - Flexible
+    origin:
+    - Vegas
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00099':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 4th
+    destination:
+    - Las Vegas
+    fare_type:
+    - Economy extra
+    origin:
+    - Sacramento CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00100':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 12th of this month
+    destination:
+    - Sacramento
+    origin:
+    - Anaheim
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00101':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - next Tuesday
+    destination:
+    - Washington
+    group_size:
+    - '4'
+    origin:
+    - New York City
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00102':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 6th of this month
+    destination:
+    - Sacramento
+    origin:
+    - Vegas
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00103':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 5th of March
+    destination:
+    - Fresno
+    group_size:
+    - '3'
+    origin:
+    - Las Vegas
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00104':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 5th
+    destination:
+    - Los Angeles
+    fare_type:
+    - dontcare
+    origin:
+    - San Diego
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00105':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 14th
+    destination:
+    - Anaheim
+    fare_type:
+    - Economy extra
+    group_size:
+    - '4'
+    origin:
+    - Fresno
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00106':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 13th of this month
+    destination:
+    - Anaheim CA
+    fare_type:
+    - Flexible
+    origin:
+    - SD
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00107':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - later today
+    destination:
+    - San Francisco
+    origin:
+    - LA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00108':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - tomorrow
+    destination:
+    - Long Beach
+    fare_type:
+    - dontcare
+    origin:
+    - San Fran
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00109':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 11th of this month
+    destination:
+    - Vancouver BC
+    fare_type:
+    - dontcare
+    group_size:
+    - '4'
+    origin:
+    - Portland
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00110':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 14th of March
+    destination:
+    - Long Beach
+    fare_type:
+    - Economy extra
+    origin:
+    - Fresno CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00111':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 11th of this month
+    destination:
+    - Fresno
+    fare_type:
+    - Economy
+    group_size:
+    - '4'
+    origin:
+    - Anaheim
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00112':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - Sunday this week
+    destination:
+    - Washington
+    group_size:
+    - '4'
+    origin:
+    - New York City
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'25_00113':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 7th
+    - tomorrow
+    destination:
+    - San Francisco
+    fare_type:
+    - Economy
+    origin:
+    - Sacramento CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00114':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 8th of March
+    destination:
+    - SD
+    fare_type:
+    - Flexible
+    origin:
+    - LAX
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00115':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 14th
+    destination:
+    - Long Beach CA
+    fare_type:
+    - Economy
+    origin:
+    - Sacramento CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00116':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - Wednesday next week
+    destination:
+    - SD
+    group_size:
+    - '3'
+    origin:
+    - Long Beach
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00117':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 9th
+    destination:
+    - SFO
+    origin:
+    - Sacramento
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'25_00118':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 13th of March
+    destination:
+    - New York
+    fare_type:
+    - Flexible
+    origin:
+    - Washington
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'26_00122':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 10th of March
+    destination:
+    - Los Angeles
+    fare_type:
+    - Flexible
+    group_size:
+    - '2'
+    origin:
+    - SF
+    - Fresno
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'26_00123':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 4th of this month
+    destination:
+    - Seattle WA
+    group_size:
+    - '1'
+    origin:
+    - Vancouver
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'26_00124':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - next Wednesday
+    destination:
+    - Long Beach CA
+    - Las Vegas
+    fare_type:
+    - Economy extra
+    - Economy
+    group_size:
+    - '2'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'26_00125':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - Saturday this week
+    destination:
+    - Las Vegas
+    group_size:
+    - '3'
+    - '2'
+    origin:
+    - Anaheim CA
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'26_00126':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 2nd
+    destination:
+    - Sacramento
+    group_size:
+    - '4'
+    origin:
+    - San Francisco
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'26_00127':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - later today
+    destination:
+    - Long Beach
+    fare_type:
+    - Economy
+    group_size:
+    - '1'
+    origin:
+    - Los Angeles
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00000':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 9th
+    destination:
+    - SF
+    fare_type:
+    - Economy
+    - Flexible
+    group_size:
+    - '3'
+    - '4'
+    origin:
+    - SD
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00001':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 9th
+    destination:
+    - Sacramento CA
+    fare_type:
+    - Economy extra
+    group_size:
+    - '1'
+    origin:
+    - SD
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00002':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 5th of March
+    destination:
+    - Sacramento
+    fare_type:
+    - Economy
+    - Economy extra
+    group_size:
+    - '2'
+    origin:
+    - Anaheim
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00003':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 6th
+    destination:
+    - San Fran
+    group_size:
+    - '2'
+    origin:
+    - LAX
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00004':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 10th
+    destination:
+    - Las Vegas
+    fare_type:
+    - Flexible
+    group_size:
+    - '1'
+    origin:
+    - Anaheim CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00005':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 7th of this month
+    destination:
+    - Anaheim
+    group_size:
+    - '1'
+    - '4'
+    origin:
+    - San Diego
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00006':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - tomorrow
+    destination:
+    - Las Vegas
+    group_size:
+    - '2'
+    origin:
+    - Long Beach
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00007':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - this Sunday
+    destination:
+    - Long Beach
+    group_size:
+    - '2'
+    origin:
+    - Sacramento CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00008':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - this Sunday
+    destination:
+    - Portland
+    - Vancouver BC
+    group_size:
+    - '3'
+    origin:
+    - Seattle
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00009':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 12th of March
+    destination:
+    - LAX
+    group_size:
+    - '2'
+    origin:
+    - Fresno CA
+    - Long Beach
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00010':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 6th of this month
+    destination:
+    - SD
+    group_size:
+    - '1'
+    origin:
+    - LAX
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00011':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 5th of this month
+    destination:
+    - Philly
+    fare_type:
+    - Economy
+    group_size:
+    - '1'
+    origin:
+    - New York
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00012':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 14th
+    destination:
+    - Anaheim
+    group_size:
+    - '3'
+    origin:
+    - Fresno CA
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00013':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 5th
+    destination:
+    - Vancouver
+    group_size:
+    - '1'
+    origin:
+    - Portland OR
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00014':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 7th of March
+    destination:
+    - Fresno
+    group_size:
+    - '3'
+    origin:
+    - Anaheim CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00015':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 2nd
+    destination:
+    - Portland OR
+    fare_type:
+    - Economy
+    group_size:
+    - '4'
+    origin:
+    - Seattle WA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00016':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 12th
+    destination:
+    - Sacramento
+    group_size:
+    - '4'
+    - '3'
+    origin:
+    - Vegas
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00017':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 1st
+    destination:
+    - SF
+    group_size:
+    - '4'
+    origin:
+    - Anaheim CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00018':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 9th
+    destination:
+    - Portland OR
+    group_size:
+    - '1'
+    - '3'
+    origin:
+    - Seattle
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00019':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 5th
+    destination:
+    - LAX
+    fare_type:
+    - dontcare
+    group_size:
+    - '1'
+    origin:
+    - San Fran
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00020':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 3rd
+    destination:
+    - SF
+    group_size:
+    - '2'
+    origin:
+    - Sacramento
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00021':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 13th of this month
+    destination:
+    - New York City
+    fare_type:
+    - Economy
+    group_size:
+    - '2'
+    origin:
+    - Washington
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00022':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - today
+    destination:
+    - Long Beach
+    fare_type:
+    - Economy extra
+    - dontcare
+    group_size:
+    - '1'
+    origin:
+    - Sacramento CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00023':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 9th of this month
+    destination:
+    - SD
+    fare_type:
+    - Flexible
+    group_size:
+    - '4'
+    - '1'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00024':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 13th of this month
+    destination:
+    - Fresno CA
+    group_size:
+    - '1'
+    origin:
+    - San Diego
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00025':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - next friday
+    destination:
+    - SFO
+    fare_type:
+    - Economy extra
+    group_size:
+    - '3'
+    origin:
+    - Fresno
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00026':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 2nd of this month
+    destination:
+    - SD
+    group_size:
+    - '2'
+    origin:
+    - Portland OR
+    - Sacramento CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00027':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 5th of this month
+    destination:
+    - Vancouver
+    group_size:
+    - '2'
+    origin:
+    - Portland
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00028':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 2nd
+    - March 5th
+    destination:
+    - Seattle WA
+    fare_type:
+    - dontcare
+    group_size:
+    - '4'
+    origin:
+    - Vancouver
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00029':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - next Wednesday
+    destination:
+    - Philadelphia
+    group_size:
+    - '2'
+    - '1'
+    origin:
+    - NY
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00030':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 1st
+    destination:
+    - Anaheim
+    group_size:
+    - '3'
+    origin:
+    - SD
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00031':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - Sunday this week
+    destination:
+    - Los Angeles
+    fare_type:
+    - Flexible
+    group_size:
+    - '1'
+    - '3'
+    origin:
+    - SD
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00032':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - tomorrow
+    destination:
+    - LA
+    fare_type:
+    - Economy
+    group_size:
+    - '2'
+    - '4'
+    origin:
+    - San Francisco
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00033':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 9th of this month
+    destination:
+    - Long Beach
+    group_size:
+    - '4'
+    origin:
+    - Sacramento
+    - Fresno
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00034':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - Tuesday next week
+    destination:
+    - San Diego
+    fare_type:
+    - Economy
+    - Economy extra
+    group_size:
+    - '4'
+    origin:
+    - Sacramento
+    - LAX
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00035':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 11th
+    destination:
+    - SD
+    fare_type:
+    - Flexible
+    group_size:
+    - '1'
+    origin:
+    - Fresno
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00036':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 10th
+    destination:
+    - San Diego
+    group_size:
+    - '4'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00037':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 4th
+    destination:
+    - Sacramento CA
+    group_size:
+    - '2'
+    origin:
+    - Anaheim Ca
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00038':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 5th of March
+    destination:
+    - LA
+    fare_type:
+    - dontcare
+    group_size:
+    - '2'
+    - '4'
+    origin:
+    - Long Beach
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00039':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 10th of March
+    destination:
+    - Anaheim
+    group_size:
+    - '4'
+    - '3'
+    origin:
+    - LAX
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00040':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 8th of March
+    destination:
+    - San Fran
+    group_size:
+    - '2'
+    origin:
+    - Sacramento CA
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00041':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 8th of this month
+    destination:
+    - SFO
+    fare_type:
+    - Economy
+    group_size:
+    - '4'
+    origin:
+    - Anaheim CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00042':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 11th of March
+    destination:
+    - Sacramento
+    fare_type:
+    - Flexible
+    group_size:
+    - '1'
+    - '3'
+    origin:
+    - Anaheim CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00043':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 12th of March
+    - later today
+    destination:
+    - SF
+    group_size:
+    - '4'
+    origin:
+    - Vegas
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00044':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 1st
+    - 2nd of March
+    destination:
+    - Los Angeles
+    group_size:
+    - '1'
+    - '4'
+    origin:
+    - San Fran
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00045':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 13th of this month
+    destination:
+    - SD
+    group_size:
+    - '1'
+    origin:
+    - Anaheim CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00046':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 14th
+    destination:
+    - Fresno CA
+    fare_type:
+    - Flexible
+    group_size:
+    - '2'
+    - '3'
+    origin:
+    - Vegas
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00047':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - next Wednesday
+    destination:
+    - Las Vegas
+    fare_type:
+    - Economy extra
+    group_size:
+    - '1'
+    origin:
+    - Anaheim CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00048':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 10th
+    destination:
+    - SF
+    group_size:
+    - '3'
+    origin:
+    - LA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00049':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - next Tuesday
+    - March 14th
+    destination:
+    - Vegas
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    origin:
+    - Sacramento CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00050':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 11th
+    destination:
+    - Fresno CA
+    fare_type:
+    - Flexible
+    group_size:
+    - '1'
+    - '4'
+    origin:
+    - Vegas
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00051':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 14th
+    destination:
+    - San Diego
+    group_size:
+    - '1'
+    origin:
+    - Long beach CA
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00052':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 13th
+    destination:
+    - Sacramento
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    origin:
+    - Anaheim
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00053':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 4th
+    destination:
+    - Vegas
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    - '3'
+    origin:
+    - Anaheim
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00054':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - The 1st
+    - 10th of this month
+    destination:
+    - Sacramento CA
+    fare_type:
+    - Economy extra
+    - Economy
+    group_size:
+    - '1'
+    origin:
+    - Long Beach CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00055':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 13th
+    destination:
+    - Washington
+    fare_type:
+    - dontcare
+    group_size:
+    - '1'
+    origin:
+    - Philadelphia
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00056':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 14th of this month
+    destination:
+    - Vancouver BC
+    group_size:
+    - '1'
+    - '3'
+    origin:
+    - Seattle WA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00057':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 12th of March
+    destination:
+    - SD
+    fare_type:
+    - Economy
+    group_size:
+    - '3'
+    - '4'
+    origin:
+    - Anaheim
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00058':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - Tuesday next week
+    destination:
+    - Long Beach
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    origin:
+    - LAX
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00059':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 4th
+    destination:
+    - Portland
+    group_size:
+    - '2'
+    origin:
+    - Seattle
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00060':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 12th of March
+    destination:
+    - Washington
+    - Los Angeles
+    group_size:
+    - '2'
+    - '4'
+    origin:
+    - Anaheim CA
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00061':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 11th of this month
+    destination:
+    - Long Beach CA
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    - '3'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00062':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 8th of this month
+    destination:
+    - SD
+    group_size:
+    - '3'
+    origin:
+    - SF
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00063':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 10th
+    destination:
+    - Fresno CA
+    fare_type:
+    - dontcare
+    group_size:
+    - '4'
+    origin:
+    - Los Angeles
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00064':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 9th
+    destination:
+    - SF
+    group_size:
+    - '3'
+    - '2'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00065':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 10th
+    destination:
+    - SD
+    group_size:
+    - '1'
+    origin:
+    - Sacramento CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00066':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - Wednesday next week
+    destination:
+    - Las Vegas
+    - LAX
+    fare_type:
+    - Economy extra
+    group_size:
+    - '3'
+    origin:
+    - SFO
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00067':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 7th of March
+    destination:
+    - Fresno
+    group_size:
+    - '3'
+    origin:
+    - LAX
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00068':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 10th
+    destination:
+    - SD
+    fare_type:
+    - Flexible
+    - dontcare
+    group_size:
+    - '3'
+    origin:
+    - Long Beach CA
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00069':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 6th
+    - the 3rd
+    destination:
+    - Sacramento
+    fare_type:
+    - Economy extra
+    group_size:
+    - '4'
+    - '1'
+    origin:
+    - Anaheim
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00070':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 1st
+    - this Saturday
+    destination:
+    - Anaheim
+    fare_type:
+    - Flexible
+    group_size:
+    - '3'
+    - '4'
+    origin:
+    - Vegas
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00071':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - this Sunday
+    destination:
+    - LA
+    group_size:
+    - '3'
+    origin:
+    - Fresno
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00072':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - Saturday this week
+    destination:
+    - Philly
+    group_size:
+    - '3'
+    - '1'
+    origin:
+    - New York City
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00073':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - next Thursday
+    destination:
+    - Fresno
+    group_size:
+    - '4'
+    origin:
+    - Anaheim
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00074':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 14th of march
+    destination:
+    - Sacramento CA
+    group_size:
+    - '2'
+    origin:
+    - Las Vegas
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00075':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 12th of this month
+    destination:
+    - SF
+    group_size:
+    - '3'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00076':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - this Sunday
+    - the 10th
+    destination:
+    - Anaheim CA
+    - Sacramento CA
+    fare_type:
+    - Flexible
+    group_size:
+    - '1'
+    origin:
+    - San Diego
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00077':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 14th of this month
+    destination:
+    - San Fran
+    group_size:
+    - '3'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00078':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - the 9th
+    destination:
+    - Portland
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    origin:
+    - Vancouver
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00079':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 12th
+    destination:
+    - SF
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    origin:
+    - Vegas
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00080':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 8th of this month
+    destination:
+    - Fresno
+    group_size:
+    - '2'
+    origin:
+    - Anaheim
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00081':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 9th
+    destination:
+    - Anaheim
+    group_size:
+    - '3'
+    origin:
+    - Fresno CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00082':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 9th of this month
+    destination:
+    - San Diego
+    group_size:
+    - '2'
+    origin:
+    - Anaheim CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00083':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 3rd
+    destination:
+    - Sacramento
+    - Vegas
+    fare_type:
+    - Economy
+    group_size:
+    - '3'
+    origin:
+    - San Francisco
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00084':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - March 7th
+    destination:
+    - Portland
+    group_size:
+    - '2'
+    origin:
+    - Vancouver BC
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00085':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 13th of March
+    destination:
+    - Washington
+    group_size:
+    - '3'
+    - '1'
+    origin:
+    - Philadelphia
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00086':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 10th
+    destination:
+    - SD
+    - Sacramento CA
+    fare_type:
+    - Economy extra
+    group_size:
+    - '3'
+    - '4'
+    origin:
+    - LA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00087':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 4th
+    destination:
+    - Sacramento CA
+    group_size:
+    - '2'
+    origin:
+    - SD
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00088':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 14th
+    destination:
+    - Fresno CA
+    fare_type:
+    - dontcare
+    group_size:
+    - '2'
+    - '3'
+    origin:
+    - Long Beach CA
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00089':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 7th
+    destination:
+    - Long Beach
+    - LAX
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    origin:
+    - Las Vegas
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00090':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 9th
+    destination:
+    - Philadelphia
+    fare_type:
+    - Economy
+    group_size:
+    - '3'
+    origin:
+    - New York
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00091':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 12th of March
+    destination:
+    - San Fran
+    fare_type:
+    - Economy
+    group_size:
+    - '2'
+    origin:
+    - LAX
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00092':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - tomorrow
+    destination:
+    - SD
+    fare_type:
+    - Economy extra
+    group_size:
+    - '1'
+    - '3'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00093':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 10th of this month
+    destination:
+    - SD
+    group_size:
+    - '2'
+    - '3'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00094':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 12th of March
+    destination:
+    - Long Beach
+    fare_type:
+    - Economy extra
+    group_size:
+    - '3'
+    origin:
+    - San Diego
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00095':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 8th of this month
+    destination:
+    - Sacramento CA
+    fare_type:
+    - Flexible
+    group_size:
+    - '1'
+    origin:
+    - San Diego
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00096':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 2nd of March
+    destination:
+    - San Francisco
+    fare_type:
+    - Flexible
+    - Economy
+    group_size:
+    - '4'
+    origin:
+    - Sacramento
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00097':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 3rd
+    destination:
+    - Washington
+    group_size:
+    - '2'
+    - '4'
+    origin:
+    - Philly
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00098':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - day after tomorrow
+    destination:
+    - SD
+    fare_type:
+    - Economy extra
+    group_size:
+    - '1'
+    origin:
+    - LAX
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00099':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 9th
+    destination:
+    - Los Angeles
+    group_size:
+    - '1'
+    origin:
+    - Fresno CA
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00100':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 10th
+    destination:
+    - SD
+    - Anaheim
+    group_size:
+    - '2'
+    origin:
+    - San Francisco
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00101':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - 11th of March
+    destination:
+    - Portland OR
+    fare_type:
+    - Flexible
+    group_size:
+    - '2'
+    origin:
+    - Seattle
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00102':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 8th
+    destination:
+    - Anaheim
+    group_size:
+    - '4'
+    - '3'
+    origin:
+    - Sacramento
+  request_slots:
+    BuyBusTicket: null
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00103':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - tomorrow
+    destination:
+    - Portland
+    group_size:
+    - '1'
+    - '2'
+    origin:
+    - Seattle
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00104':
+  goals:
+    intent:
+    - FindBus
+  inform_slots:
+    departure_date:
+    - 14th of March
+    - March 9th
+    destination:
+    - San Diego
+    fare_type:
+    - Flexible
+    group_size:
+    - '2'
+    origin:
+    - Long Beach CA
+  request_slots:
+    FindBus:
+      departure_time: UNK
+      destination_station_name: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
+
+'27_00105':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - March 3rd
+    destination:
+    - long beach
+    - San Francisco
+    fare_type:
+    - Economy extra
+    group_size:
+    - '2'
+    origin:
+    - LA
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00106':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - the 3rd
+    destination:
+    - Anaheim
+    fare_type:
+    - Economy extra
+    - Economy
+    group_size:
+    - '2'
+    origin:
+    - SD
+  request_slots:
+    BuyBusTicket:
+      origin_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      price: UNK
+
+'27_00107':
+  goals:
+    intent:
+    - FindBus
+    - BuyBusTicket
+  inform_slots:
+    departure_date:
+    - Friday next week
+    destination:
+    - Sacramento
+    group_size:
+    - '3'
+    origin:
+    - SF
+  request_slots:
+    BuyBusTicket:
+      destination_station_name: UNK
+    FindBus:
+      departure_time: UNK
+      fare_type: UNK
+      origin_station_name: UNK
+      price: UNK
