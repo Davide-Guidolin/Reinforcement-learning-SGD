@@ -1,3 +1,6 @@
+# Supervised learning vs Reinforcement learning in task completion dialogues
+You can read my Bachelor's thesis [here](Guidolin_Davide_Informatica_2020_2021.pdf).
+
 # Reinforcement Learning with PyDial
 
 ## Setup
